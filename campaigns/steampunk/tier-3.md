@@ -1,0 +1,9 @@
+Level 11: The Rise of a New Threat - A sinister cult has risen to power in Rithmia, seeking to harness Etherite's magical energies to summon an ancient and powerful entity from another realm. The characters must investigate this new threat and learn more about their dark intentions. 
+
+Level 12: Infiltrating the Cult - The adventurers go undercover within the cult to gather information on their plans and discover the location of a powerful ritual that will summon the ancient entity into our world. They must navigate treacherous alliances and betrayals as they work to thwart this sinister plot. 
+
+Level 13: Preventing the Ritual - The characters race against time to reach the site of the cult's ritual before it can be completed, facing off against powerful adversaries and navigating dangerous traps along the way. They must use their wits and skills to ensure that Etherite's power remains safely out of the hands of those who would seek to misuse it. 
+
+Level 14: The Final Battle - The climax of this story arc sees the characters facing off against the cult's powerful leader in a desperate battle for control over Etherite and the fate of Rithmia. They must draw upon all their strength, wisdom, and courage to ensure that the world is protected from the darkness that seeks to consume it. 
+
+Level 15: The Legacy - In the aftermath of their triumph over the sinister cult, the characters are hailed as heroes once more. However, they must now face the responsibility of ensuring that Etherite's power is used wisely and safely by all who seek to wield it. They must work together with other leaders in Rithmia to establish new laws and regulations governing the use of Etherite and ensure a brighter future for the world. 
