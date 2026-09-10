@@ -1,0 +1,4 @@
+# Release of Yith'Zizctal 
+Around 3,000PD The Unspeakable One’s forces finally break his first born free of the core of Rithmia. Planet is ripped asunder. In the future after this point there will just be New Rithmia which will be a large space station much like the Death Star but not quite planet shaped it’ll be an elongated hourglass type shape with various rings encircling and floating around the center where small contained singularity resides  
+
+After the destruction of Rithmia following the release of the consumer the calendar will shift for rithmiasphereians with BR and AR marking years before release and after release. The R is also sometimes known as reckoning or Rithmia (After Rithmia) 
