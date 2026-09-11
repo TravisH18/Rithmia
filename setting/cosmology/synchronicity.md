@@ -1,0 +1,2 @@
+# Synchronicity
+A synchronicity is a period of time in which the material plane become coterminous with a different plane of existence. This happens most often with the plane of shadow and the feywild. Last time it happened with an outer plane was with the nine hells. During this point Tiamat was residing in Avernus and took the opportunity to corrupt hundreds of chromatic dragons who had recently achieved great power by winning the war of the elements just a few centuries before. 
