@@ -1,0 +1,1 @@
+These are mostly abberations who work for / alongside the aboleths who have corrupted the waters, spread mist, and overtaken the Tidevault Empire 

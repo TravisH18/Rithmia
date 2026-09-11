@@ -72,3 +72,6 @@ Whisperer in Darkness TOB3
 Parasite Warlock (GHMG) 
 
 Eldritch priests (GHMG) 
+
+## Traits and Oddities
+Enough scourge crawlers in a small area can vibrate and ripple out psionic waves and explode a person like how bees kill via vibrating a melting bigger insects. This is what caused the nuclear blast seen from space 

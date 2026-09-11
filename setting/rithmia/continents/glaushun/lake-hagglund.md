@@ -1,0 +1,2 @@
+# Lake Hagglund
+Lake is surrounded by odd occult societies of amphibious humanoid. Some call them fish people and avoid the area entirely. They all worship a mysterious entity who is depicted as a great froghemoth like creature. The fish people believe when the moon is right they will spring from the lake and enact a great deed. 

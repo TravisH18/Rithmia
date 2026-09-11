@@ -1,0 +1,7 @@
+# Overview 
+Wild west theme west of the mountains but in the valley we should work in a eastern African theme with this being the rift valley. Possibly a strong isolationist nation like the Ethiopian Empire this being a theocracy of divine soul sorcerers said to be descended from a god (Ados / Gharian). This nation should have long standing beef with Brhymn a newer nation in comparison but a rival theocracy. 
+
+Pathfinder Storval Plateau and Cinderlands 
+
+# Points of interest
+A (western African) inspired kingdom that reavers metallurgical prowess above all else. They were the first peoples to discover brass and many other metallic alloys. They are ruled by a black smith king the royal family are specialized golem crafters creating works of art that are living functional metal golems. They have an abundance of valuable metals like copper iron etc which has invited many invaders to attempt to conquer them yet they stand tall. It would also be interesting if these peoples were “dispossessed” not valuing personal property they see all that comes from the land as theirs, they share, and all work to improve life through things from the land so people take pride in trades like farming weaving blacksmithing and anything that creates from natural materials. 
