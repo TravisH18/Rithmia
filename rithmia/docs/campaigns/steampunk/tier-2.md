@@ -1,0 +1,10 @@
+# Tier 2
+Level 6: Uncovering the Ancient Seals - The adventurers discover that Etherite is not just a powerful energy source but also a key that unlocks ancient seals guarding powerful magical forces hidden deep within the Iron Spires. They must explore these ruins and learn more about the origins of Etherite and its connection to the seals. 
+
+Level 7: Encounter with Steam-Powered Constructs - As they delve deeper into the mountains, the characters encounter steam-powered constructs created by a long-lost civilization. These mechanical creatures are designed to protect the ancient seals from intruders and pose a significant threat to the adventurers' progress. 
+
+Level 8: Confronting the Sorcerer - The characters learn that an ageless sorcerer named Zoltan Blackwood has been experimenting with Etherite for his own nefarious purposes, seeking to harness its power to gain control over the world of Rithmia. They must confront this powerful adversary and prevent him from achieving his goals. 
+
+Level 9: Infiltration of Zoltan's Lair - The adventurers track down Zoltan Blackwood's hidden lair, which is located deep within the Iron Spires. They must infiltrate this dangerous location and steal any Etherite samples or research materials they can find before Zoltan can use them to further his own agenda. 
+
+Level 10: Confronting Zoltan Blackwood - The climax of this story arc sees the characters facing off against Zoltan Blackwood in a thrilling battle for control over Etherite and its potential effects on the world of Rithmia. 

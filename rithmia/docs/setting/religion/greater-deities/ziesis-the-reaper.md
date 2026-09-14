@@ -1,0 +1,21 @@
+# Ziesis, The Reaper
+| Area of Conern | Responsibility |
+| --- | --- |
+| **Alignment** | NE |
+| **Domains** | Death, darkness, pain, necromancy, sacrifice |
+| **Divine Realm** | Shadowfell specifically the Hallowed Abyss. Which is abondaned as he can never return there. Now his divine realm is his ship, The Black Charovel which floats on the River of Souls |
+| **Allies** | Janus |
+| **Enemies** | Shunned by remaining gods |
+| **Relationships** | Serves as the emissary who brings all departed souls through the journey of the river of souls before the last stop where incomplete souls enter purgatory to face Janus for judgement. |
+| **Temples** | Crypts, forbidden catacombs, and hidden altars dedicated to Ziesis are concealed in the darkest corners of the world. |
+| **Worshippers** | Necromancers, cultists, those who fear death or seek forbidden knowledge, and those who revel in suffering. |
+| **Sacred Animal** | Owls and Crows (Grey-Skulled ones often have black bodys and a grey feathered head which looks like a grey skull on top of a black body). An owl or a bird with red eyes is said to be an omen of imminent death. A psychopomp awaiting a nearby soul who will pass soon. |
+| **Sacred Colors (clergy colors)** | Black, crimson, ahsen grey |
+| **Edicts** | Embrace the inevitability of death, explore the mysteries of necromancy, revel in the macabre, seek power through sacrifice. |
+| **Anathema** | Resisting death's embrace, disrupting the natural order of life and death, healing the dying, preserving life. |
+| **Symbols** | Scythe cloaked in shadows, an ethereal skull, a black shroud. |
+| **Holy Text** | Scenes of death, basically a 1000 ways to die graphic novel.
+| **Herald** | Zeisis has no true herald as they instead have a myriad of psychopomps (aka Grim reapers) who collect souls of the recently deceased and guide them to his ship on the river of souls. |
+| **Lore** | Ironically the god of death is one role that has changed hands many times as it is in fact a curse. It takes millennia but the power of death withers all. No god of death thinks they are above dying so towards the ends they find someone to replace them. A mortal known as “Deaths chosen” receive a curse (much like zerefs) that instantly destroys and decays all life in an area around it a burden they carry the remainder of their mortal life in order to understand the power of death. Only undead can survive in the aura. The current “deaths chosen” is a young female woman who lost both parents early in life and lost their younger brother at the age of 17 (it was her fault). She now wanders alone.  |
+| **Creations** | The reaper has multiple servants who all ferry souls in different circumstances. All are technically psychopomps who bring recently departed souls to the river of souls. In large scale wars those breathing their final breaths glimpse upon a Tallyman which is a gargantuan armored shape that eclipses the sun, a behemoth comprised of broken arms and shattered walls. War personified. Terror incarnate. Pain and desolation made manifest. It resembles a automata or construct like the giant in black ops zombies. These unfortunate dyers also hear the faint robotic voice constantly counting the death count and exclaiming how each one dies. Ex. 9 stab wound to heart, 10 shot in the head, 11 shot in the heart, etc. See https://scp-wiki.wikidot.com/three-short-scenes-about-death for reference. Some members of the reapers clergy dawn the title Soul Shepherd carrying the symbol of a black sheep dog close to heart. These people exercise their power in sending souls they believe are “due to be reforged” to the afterlife. Some can even call on phantom hounds at will and are some of the few mortals who have met a grim reaper and lived because they are essentially coworkers. Created Yamaraj as the greatest judges of the psychopomps. These creatures exist at crossroads in the mortal plane as well as where the river of souls intersects with various outer planes. They decide if a soul should be bound to planes not mortal or purgatory. | 
+| **Created Artifacts** | Spinesword, a longsword (katana) with a real spine as the shethe and handle so when the blade is not revealed the entire sword look like a spine. 

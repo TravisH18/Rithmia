@@ -1,0 +1,2 @@
+# Elyria 
+The most beautiful and serene of the gas giants, Elyria's atmosphere shimmers with iridescent colors, like an oil droplet on water. Its moon-like system is home to numerous smaller celestial bodies, which reflect Elyria's light in dazzling patterns across the cosmos. No native species currently resides on this planet. It is a cold dark landscape devoid of any leftover of civilization. It's creator long past instilled upon it the nothingness of immortality. 

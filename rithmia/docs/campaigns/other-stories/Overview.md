@@ -1,0 +1,1 @@
+This is where outline for other stories that may or may not be full campaigns. Some may just be short stories or writing exercies I give myself.
