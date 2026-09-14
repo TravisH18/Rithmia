@@ -1,3 +1,4 @@
+# Etherite
 This is the element that will propel Rithmia into the industrial age/ steam powered age. 
 
 Etherite is a pale blue metal that when magical energy is applied directly to the metal it super heats itself creating a source of heat more efficient than fire (natural or magical) since the magic energy is converted at nearly 20x the rate to heat. With this artificers are able to create massive steam engines with little magical energy expended and only moderate amounts of Etherite necessary.  

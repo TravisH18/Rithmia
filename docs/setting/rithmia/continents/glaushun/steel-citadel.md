@@ -23,4 +23,4 @@ Hobgoblin/goblin empire expanding in the Stormy willows (full of willow trees)
         - 15 hobgoblins 
     - 100 Hobgoblin Iron shadows works as spys, infiltrators, assassins working in small groups 
 
-![Steel Citadel map](/assets/steel-citadel-map.jpeg)
+![Steel Citadel map](/rithmia/static/img/steel-citadel-map.jpeg)
