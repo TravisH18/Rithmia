@@ -1,0 +1,6 @@
+# Beirtzium
+Mt. Heaven - Beirtzium 
+
+Mount Heaven is a plane of order and perfection, home of the angels and all other arbiters of justice and divine law. Such a location, while advocating for pacifism, is not above using force to employ the ideals of goodness across the realms. The materials that are used to wage war in the name of peace tend to vary, as the many servants of good are not picky with what they use to ruthlessly murder dissidents and heretics fight evil. However, for those who wish to make their universal laws multiversal, and aspire to be as petty and vindictive as the gods above them, Beirtzium, aka Hallowed Steel is the only option. 
+
+Beirtzium is blessed to protect from the worst forces of evil, and to rend the worst devils from the evil that has given them life. Although it is simple in appearence, this bright, platinum-colored metal holds enough good energy within it to be vile to evil creatures, and to naturally shift anyone holding it towards the Lawful Good alignment. Under the proper circumstances, this material is also extremely volatile when making contact with sufficiently evil creatures, however, most craftsmen tend to work the steel to a strength that will prevent explosions in these scenarios. Variations of weapons that take advantage of this property, however, are dubbed “Holy Hand Grenades”. 

@@ -1,0 +1,2 @@
+# The Foundation
+Followers of Ados who literally lay the foundation for rising remote civilizations to thrive. They help elevate small easily raid-able villages into true fortresses. Often work someone in secret as lots of them are in hiding as cyborgs and don't mind if it takes years to build. The one thing they always do is look for an apprentice in the city already to be able to keep the new city stable for years to come. 
