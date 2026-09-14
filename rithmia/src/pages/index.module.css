@@ -21,3 +21,8 @@
   align-items: center;
   justify-content: center;
 }
+
+.inlineIcons {
+  place-self: center;
+  /* margin: 0 auto; */
+}

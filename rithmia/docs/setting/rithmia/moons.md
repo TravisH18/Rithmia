@@ -14,16 +14,27 @@ Rithmias largest moon is always visible in the sky but is illuminated a beautifu
 
 Io is the furthest moon and is actually a kind of satellite that looks like a regular cratered rocky moon with lunar dragons on the surface. When illuminated at night it glows a soft white almost golden color. This moons lunar cycle is what the calendar is based on. It is also the moon most associated with lycanthropy. 
 
-Nursery rhyme to remember the names of each new moon.  
-
+### Nursery rhyme to remember the names of each new moon of Io.  
+```
 The first glimpse of a waxing night is followed by a Hallowed sky. 
-
 Before fate arrives, the light grows until rebirth 
-
 The flood nourishes until the night sky blossoms the sweet sight draws passion forth and manifests  
-
 The lovers who so passionately swarm across the night sky harvesting the fruits of labor and glory of the hunter’s 
-
 Then retreating from the dark desolation of night and the cold of winter before the last wane. 
+```
 
+Names of the moons: 
+
+1. Hallow
+2. Fate 
+3. Rebirth 
+4. Flood 
+5. Blossom 
+6. Sweet 
+7. Lovers 
+8. Swarm 
+9. Harvest 
+10. Hunters 
+11. Dark 
+12. Cold 
  

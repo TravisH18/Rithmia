@@ -1,4 +1,4 @@
-# Frozen wastes
+# Frozen Wastes
 During the age of myth the goliaths and the ice giants of Bredoa exiled criminals to this land. 
 
  

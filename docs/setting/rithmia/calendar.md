@@ -23,8 +23,6 @@ The lovers who so passionately swarm across the night sky harvesting the fruits 
 
 Then retreating from the dark desolation of night and the cold of winter before the last wane. 
 
- 
-
 Meno (prefix meaning month so these literally mean month of __ (' = of)) Meno' pronounced meh-no-ah (like menoa) 
 
 Names of the months: 
