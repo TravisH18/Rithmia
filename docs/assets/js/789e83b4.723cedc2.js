@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrithmia=self.webpackChunkrithmia||[]).push([["6674"],{7548(t){t.exports=JSON.parse('{"metadata":{"permalink":"/Rithmia/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":0,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

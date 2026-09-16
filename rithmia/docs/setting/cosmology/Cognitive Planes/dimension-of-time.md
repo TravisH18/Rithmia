@@ -1,5 +1,4 @@
 # Dimension of Time 
-(https://pathfinderwiki.com/wiki/Dimension_of_Time) 
 
 Attributes | Description 
 --- | --- 

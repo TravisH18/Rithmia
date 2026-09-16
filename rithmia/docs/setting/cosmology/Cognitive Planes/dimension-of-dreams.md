@@ -1,3 +1,4 @@
+# Dimension of Dreams
 The dimension of dreams and dimension of time are ethereal cognitive dominions. Just as the outer planes and planetary spheres float in the astral sea these two exists all throughout the ethereal plane however are somewhat “close” to the astral sea. 
 Dimension of Dreams 
 

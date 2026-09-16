@@ -87,7 +87,7 @@ const config: Config = {
           position: 'left',
           label: 'Rithmia Guide',
         },
-        {to: '/changelog', label: 'Changelog', position: 'left'},
+        // {to: '/changelog', label: 'Changelog', position: 'left'},
         
       ],
     },
@@ -99,7 +99,7 @@ const config: Config = {
           items: [
             {
               label: 'Start here',
-              to: '/docs/setting/history/prehistory',
+              to: '/docs/Setting/History/prehistory',
             },
           ],
         },

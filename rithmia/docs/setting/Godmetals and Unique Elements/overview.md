@@ -1,3 +1,6 @@
+---
+sidebar_position: 0
+---
 # Overview
 Due to divine magic interacting with natural elements some were changed or purposefully created with unique features.
 
