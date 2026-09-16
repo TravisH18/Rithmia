@@ -3,10 +3,10 @@
 | --- | --- |
 | **Alignment** | NG |
 | **Domains** | Knowledge, Learning, Peace |
-| **Divine Realm** | The Tranquil Library, Nirvana |
-| **Allies** | Ados, Xinthris, Gaia |
+| **Divine Realm** | The Tranquil Library, [Nirvana](../../Cosmology/Outer%20Planes/Planes%20of%20Balance/nirvana.md) |
+| **Allies** | Ados, [Xinthris](../Greater%20Deities/xinthris-the-weaver.md), [Gaia](../Greater%20Deities/gaia-the-allmother.md) |
 | **Enemies** | *replace* |
-| **Relationships** | Caretaker of Gaia, The Earth |
+| **Relationships** | Caretaker of [Gaia](../Greater%20Deities/gaia-the-allmother.md), The Earth |
 | **Temples** | Serene libraries, peaceful monasteries, and halls of learning are revered as sacred places for Lemos. |
 | **Worshippers** | Scholars, sages, monks, students, seekers of truth and enlightenment. |
 | **Sacred Animal** | Elephant |
@@ -15,5 +15,5 @@
 | **Anathema** | Suppressing knowledge, sowing discord, embracing ignorance, perpetuating violence and conflict.   |
 | **Symbols** | A radiant book, a serene lotus, an open mind.  |
 | **Herald** | *replace* |
-| **Lore** | The first mortal to ascend to godhood. Early on it was rumored that through gaining enlightenment they achieved godhood without being "promoted" by another deity. Known in life as the Enlightened One a monk who had spent his life in the pursuit of self perfection. This legendary monk honed his body and mind past mortal limitations. God of unity, peace, solidarity: patron saint of all monks. Depicted as a tall think humanoid with extended limbs and torso, each arm has two elbows, each leg has two knees. Holy symbol is this figure balancing on one foot arms bent creating an infinity symbol. Ados, and Xinthris had been in secret working on creating an artifact that could elavate a mortal to godhood. The issue is part of an existing gods divine heart was necessary for its creation. In her weakened form Gaia's Earth aspect allowed hers to be used with one codition. The first recipient must nurture her and her creations until her true form was back to full health. Knowing that without assistance it could take millions of years to rebuild herself. With help it may only take 100,000 years. So technically Gaia, The Earth Promoted Lemos to godhood. |
+| **Lore** | The first mortal to ascend to godhood. Early on it was rumored that through gaining enlightenment they achieved godhood without being "promoted" by another deity. Known in life as the Enlightened One a monk who had spent his life in the pursuit of self perfection. This legendary monk honed his body and mind past mortal limitations. God of unity, peace, solidarity: patron saint of all monks. Depicted as a tall think humanoid with extended limbs and torso, each arm has two elbows, each leg has two knees. Holy symbol is this figure balancing on one foot arms bent creating an infinity symbol. Ados, and [Xinthris](../Greater%20Deities/xinthris-the-weaver.md) had been in secret working on creating an artifact that could elavate a mortal to godhood. The issue is part of an existing gods divine heart was necessary for its creation. In her weakened form [Gaia](../Greater%20Deities/gaia-the-allmother.md)'s Earth aspect allowed hers to be used with one codition. The first recipient must nurture her and her creations until her true form was back to full health. Knowing that without assistance it could take millions of years to rebuild herself. With help it may only take 100,000 years. So technically [Gaia](../Greater%20Deities/gaia-the-allmother.md), The Earth Promoted Lemos to godhood. |
 | **Creations** | *replace* | 

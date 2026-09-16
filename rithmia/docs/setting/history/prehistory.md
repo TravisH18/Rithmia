@@ -8,8 +8,8 @@ The Yith would seem “alien” today because their natural habitat is one of wh
 
 However they left the planet without a trace just a few decades before the gods arrived as the primordials continued to grow and split into more different forms.  
 
-Originally Rithmia was the playground for Gaia, The Allmother and it is unclear whether or not they uncovered evidence of this species. If she did or not no details were shared with any other deities. 
+Originally Rithmia was the playground for [Gaia, The Allmother](../Religion/Greater%20Deities/gaia-the-allmother.md) and it is unclear whether or not they uncovered evidence of this species. If she did or not no details were shared with any other deities. 
 
-Once Gaia arrived pre containment they spawned twelve original beasts as well as created her two heralds to rule over plant and animal life on the entire planet. A peaceful garden of livestock who lived alongside the elemental primordials. 
+Once [Gaia](../Religion/Greater%20Deities/gaia-the-allmother.md) arrived pre containment they spawned twelve original beasts as well as created her two heralds to rule over plant and animal life on the entire planet. A peaceful garden of livestock who lived alongside the elemental primordials. 
 
-Yith’Zizctal is a primordial word. It means Alien (Yith) Spiraling Death (Zizctal) The Allmother was the first to speak this name when the encroching old one came hurling towards the solar system from the outer realm. 
+Yith’Zizctal is a primordial word. It means Alien (Yith) Spiraling Death (Zizctal) [The Allmother](../Religion/Greater%20Deities/gaia-the-allmother.md) was the first to speak this name when the encroching old one came hurling towards the [solar system](../Cosmology/Solar%20System/overview.md) from the outer realm. 

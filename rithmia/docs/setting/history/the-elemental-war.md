@@ -4,9 +4,9 @@ sidebar_position: 10
 # The Elemental War (50BD - 0BD)
 The build up of power was palpable across the world. The raw elements of air, fire, water, and earth had been conquered by three specias. The giants, genies, and the dragons. 
 
-Stone giants attempted to stay neutral as they did not want to participate in such a war and wanted to continue living life as it was. This neutrality inspired the one face to face meeting that was ever held. Shortly after the last primordial was defeated a council of war was held. Nobody knows what happened for sure but battle broke out and the center of glaushun was ground zero for a fight that would last centuries. 
+Stone giants attempted to stay neutral as they did not want to participate in such a war and wanted to continue living life as it was. This neutrality inspired the one face to face meeting that was ever held. Shortly after the last primordial was defeated a council of war was held. Nobody knows what happened for sure but battle broke out and the center of [glaushun](../Rithmia/Continents/Glaushun/overview.md) was ground zero for a fight that would last centuries. 
 
-This war altered the world's landscape even further. Carving out a considerable chunk of land creating the sea of stars inland on the continent of Glaushun. 
+This war altered the world's landscape even further. Carving out a considerable chunk of land creating the sea of stars inland on the continent of [Glaushun](../Rithmia/Continents/Glaushun/overview.md). 
 
 ## Giants 
 Giants had the most physical strength and only some of them had deep magic connections as the elements they were attuned to mostly bolstered their physical abilities. True Giants (titans in early D&D I think) retreated to their realm called Jotunheim. These true giants are incredibly adaptable to the elements and the many various types are a result of true giants adapting to their natural surroundings in whatever wandering tribe they found themselves in after the war as many of the giant empires were destroyed. 
@@ -19,7 +19,7 @@ Genie’s had the strongest raw magic ability. They used their innate connection
 Genies pulled together their excessive magic power to create their own plane that resembled the world of Rithmia when the titans still reigned supreme. They divided it in four and now reside on the plane of altaaqat al'awalia. (Elemental energy). 
 
 ## Dragons 
-Dragons were the optimal combination of strength, cunning and magical ability That only grows with age. That is why they won plain and simple. This war lasted 400 years and none of the others have an extended lifespan to compete with dragons (genies can live up to 200 years, giants less than 100) 
+Dragons were the optimal combination of strength, [cunning](../Religion/Lesser%20Deities/qandia-the-cunning.md) and magical ability That only grows with age. That is why they won plain and simple. This war lasted 400 years and none of the others have an extended lifespan to compete with dragons (genies can live up to 200 years, giants less than 100) 
 
 Yellow dragons, fast, salt breathe weapon 
 
@@ -27,27 +27,27 @@ Yellow dragons, fast, salt breathe weapon
 
 With the dragons victorious the first age of Rithmia was brought to a close. These victorious dragons became the draconic pantheon. It also gave birth to new races related to these elemental warriors. Dragonborns, giant kin, and genasi (along with Panjaian) “True giants” retreated to their creator gods realm of jotunheim however giants still roam today. Dragons also still roam free. Some selfish chromatic dragons use the title of Ruler of the Elements even though they did not participate in the war and do not hold domain over any elements. 
 
-Genie’s are notably the one participant of this war that are (for the most part) not present on the prime material plane anymore. Nobody is quite sure of its origins but the genies were able to harness the ancient raw power of the pandemonium stone to create their own plane of existence, the elemental energy plane (see EEP section). 
+Genie’s are notably the one participant of this war that are (for the most part) not present on the prime [material plane](../Cosmology/material-plane.md) anymore. Nobody is quite sure of its [origins](../Creatures/Dragons/origins.md) but the genies were able to harness the ancient raw power of the [pandemonium](../Godmetals%20and%20Unique%20Elements/pandemonium.md) stone to create their own plane of existence, the elemental energy plane (see EEP section). 
 
-There is supposedly a Key of Stars hidden amongst one island; this key is said to have many powers. Ali believes that it will open the door to the elemental planes and allow genies to come forth and take their rightful place. He says the genies with their magic prowess left it behind before they officially lost the elemental war so they could one day return. In truth this opens a door to the far realm where abolthic sovereignty will try to come forth and reign terror over the whole world. It is scattered somewhere in the sea where it originally existed. 
+There is supposedly a Key of Stars hidden amongst one island; this key is said to have many powers. Ali believes that it will open the door to the [elemental planes](../Cosmology/Inner%20Planes/Elemental%20Planes/overview.md) and allow genies to come forth and take their rightful place. He says the genies with their magic prowess left it behind before they officially lost the elemental war so they could one day return. In truth this opens a door to the [far realm](../Cosmology/far-realm.md) where abolthic sovereignty will try to come forth and reign terror over the whole world. It is scattered somewhere in the sea where it originally existed. 
 
 To compensate for these creatures now dominating aspects of life as the Elemental pantheon the original species were given access to the arcane via the weave. Elemental power was a raw and unrefined magic but the humanoid species were able to harness and refine it to a degree greater than any other on Rithmia. From this blossomed the first great empire of each civilization. This ended The Dawn and began an age where magic blossomed across the world later deemed The Esoteric Times. 
 
 ## Conclusion: 
 
-The end of the war was known as the Day of Dawn as the wars had created a permanent cloud of elemental chaos in the atmosphere and when the dragons were deemed victors and granted godhood over the primordial chaos (that the genies had shaped into a somewhat lawful domain). Gharian and Gaia parted the skys and raised three dragons and two genies to godhood. Granting them each a divine spark. 
+The end of the war was known as the Day of Dawn as the wars had created a permanent cloud of elemental chaos in the atmosphere and when the dragons were deemed victors and granted godhood over the primordial chaos (that the genies had shaped into a somewhat lawful domain). [Gharian](../Religion/Greater%20Deities/gharian-the-jolly.md) and [Gaia](../Religion/Greater%20Deities/gaia-the-allmother.md) parted the skys and raised three dragons and two genies to godhood. Granting them each a divine spark. 
 
-Overall to the mortal world it seemed like a fight to the death to see which candidates would ascend to minor deity status however secretly early on in the war all sides of the ensuing chaos were visited by a divine herald and told the truth while also sworn to secrecy. Due the Gaias serious injury the seals on the enemies of the Yith, The primordials were weakened. Ancient titans composed of different elements began to stir to life. Ancient artifacts from the sealing of the consumer scattered across the globe were the only things they believe were strong enough to slay or seal these primordials. They were tasked with finding these artifacts or becoming strong enough to overcome the titans without them. On the surface the fight to the death narrative was kept even though it makes little sense for divine beings to be the catalyst for a catastrophic 49 year long war  
+Overall to the mortal world it seemed like a fight to the death to see which candidates would ascend to minor deity status however secretly early on in the war all sides of the ensuing chaos were visited by a divine herald and told the truth while also sworn to secrecy. Due the Gaias serious injury the seals on the enemies of the Yith, The primordials were weakened. Ancient titans composed of different elements began to stir to life. Ancient artifacts from the sealing of [the consumer](../Religion/Outer%20Deities/yith%27zizctal-the-consumer.md) scattered across the globe were the only things they believe were strong enough to slay or seal these primordials. They were tasked with finding these artifacts or becoming strong enough to overcome the titans without them. On the surface the fight to the death narrative was kept even though it makes little sense for divine beings to be the catalyst for a catastrophic 49 year long war  
 
 ## Artifacts of Extremity 
 
 Ring of winter type shit 
 
-Fire artifact could be asmodeus related 
+Fire artifact could be [asmodeus](../Religion/Greater%20Deities/asmodeus-the-devil.md) related 
 
-Lightning/thunder should be Gharian related 
+Lightning/thunder should be [Gharian](../Religion/Greater%20Deities/gharian-the-jolly.md) related 
 
-Acidic/poisonous ooze of the consumer itself 
+Acidic/poisonous ooze of [the consumer](../Religion/Outer%20Deities/yith%27zizctal-the-consumer.md) itself 
 
  
 
@@ -55,7 +55,7 @@ Acidic/poisonous ooze of the consumer itself
 
 The original terms agreed upon before the summit was that each faction would select 4 champions one for each element. 
 
-A dual of champions would be set, once agreed upon these 12 would battle until one side was declared the victor by Gaia herself. 
+A dual of champions would be set, once agreed upon these 12 would battle until one side was declared the victor by [Gaia](../Religion/Greater%20Deities/gaia-the-allmother.md) herself. 
 
 However due to the nature of the sabatoge of the summit and the breakout of war these champions turned into Generals and the date for a dual was never set. The rules of the agreement changed and only the holders of Extremity know what the new rules for victory are. 
 

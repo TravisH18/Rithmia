@@ -1,5 +1,5 @@
 # Moldy Loch
-Empire ruled by 3 undead rumored to have been around for 6000 years based on Nidal from pathfinder with a surrounding haunted swamp. The three undead sacrificed their souls to Ziesis during the first scourge infestation to protect themselves from being taken over by the scourge they offered their souls and all furture citizens of their empire protection from “having their minds corrupted” they were granted immortality and exist constantly in the border between life and death.  
+Empire ruled by 3 undead rumored to have been around for 6000 years based on Nidal from pathfinder with a surrounding haunted swamp. The three undead sacrificed their souls to [Ziesis](../../../Religion/Greater%20Deities/ziesis-the-reaper.md) during the first [scourge](../../../Creatures/scourge.md) infestation to protect themselves from being taken over by [the scourge](../../../Creatures/scourge.md) they offered their souls and all furture citizens of their empire protection from “having their minds corrupted” they were granted immortality and exist constantly in the border between life and death.  
 
 Capital city is the Masquerade City this nickname is earned since a majority of the population wears masks and fine clothing that hides every inch of their skin. All citizens have some kind of physical deformity that makes them look zombie-like or some kind of leprasy.  
 
@@ -7,7 +7,7 @@ Here Good blood can be just as valuable as gold
 
 Large swamp lands filled with oilly swamps and oozing trees 
 
-Other heavily worshipped deity is Lady of Decay. 
+Other heavily worshipped deity is [Lady of Decay](../../../Religion/Unclassified%20Deities/lady-of-decay.md). 
 https://i.4pcdn.org/tg/1472373004801.pdf 
 
 Creatures in the area (Source in parenthesis) 

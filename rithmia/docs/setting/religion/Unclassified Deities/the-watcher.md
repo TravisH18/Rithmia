@@ -1,7 +1,7 @@
 # The watcher
 This is a mysterious entity that only seems to be seen by those witnessing a cataclysmic event or some other major historical moment or people who have died and been resurrected sometimes claim they spot this creature in their last moments, simply watching and observing.  
 
-Nobody has interacted with this entity so some claim it is a god, some claim it to be an angel or demon, followers of The Reaper believe it is a unique psychopomp. 
+Nobody has interacted with this entity so some claim it is a god, some claim it to be an angel or demon, followers of [The Reaper](../Greater%20Deities/ziesis-the-reaper.md) believe it is a unique psychopomp. 
 
 Appearance: A tall slender humanoid figure. Body vaguely feminine but with no head. Atop their neck is a single massive eyeball with a rainbow colored iris on the front and back. 
 

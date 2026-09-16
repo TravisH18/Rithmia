@@ -8,6 +8,6 @@ Global population is reduced by approximately 90% as Najarans flee and their arc
 
 Rise in religion. Many monasteries still standing today were built in this era. 
 
-Dragons hermit away in small packs / nuclear families grow in power and strength but also develop their own innate magic power. The first draconic bloodlines have their origins in this reclusive era. 
+Dragons hermit away in small packs / nuclear families grow in power and strength but also develop their own innate magic power. The first draconic bloodlines have their [origins](../Creatures/Dragons/origins.md) in this reclusive era. 
 
 Giant tribes start to run wild and expand their territory. Previously enslaved to the Snakefolk via mind control. 

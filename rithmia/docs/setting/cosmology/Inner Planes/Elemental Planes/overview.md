@@ -4,18 +4,18 @@ The elemental plane has gone through two main phases.
 ## Elemental Chaos
 The elemental chaos was its original forms once the primordials created as a biproduct of divine influence on the planet created life. They were deemed to dangerous and destructive and after a breif conflict were sealed away in a separate inner plane where they constantly battled eachother, resulting in this plane becoming The Elemental Chaos. 
 
-## The Elemental War 
-Before her sundering The Allmother was in command of all the elements as part of her Domain. With her loss of strength and sanity due to splitting herself in half these powers had gone ungoverned for millenia. War broke out as several heralds all at once appeared and declared the victors and four strongest contestants of this new war would be crowned as the heads of a new (lesser deity) pantheon known as the Elemental Pantheon. Therefore, the Elemental War began. Afterwards some Genies claiming they should have not had to fight for the right to the pantheon were very bitter at the loss of this war and retreated to the new organized version of the Elemental Chaos now deemed the Elemental Energy Plane in order to get stronger, strategize, and craft new powerful items. Genies have conquered large portions of these lands as their own as the only draconic residents are the new heads of the elemental pantheon and their families / chosen mortals. With this the retreat Genies often left behind cities they were in charge of and the populous now have mixed feelings about genies. Genies were known to leave treasure hoards guarded by mummies behind.
+## [The Elemental War](../../../History/the-elemental-war.md) 
+Before her sundering [The Allmother](../../../Religion/Greater%20Deities/gaia-the-allmother.md) was in command of all the elements as part of her Domain. With her loss of strength and sanity due to splitting herself in half these powers had gone ungoverned for millenia. War broke out as several heralds all at once appeared and declared the victors and four strongest contestants of this new war would be crowned as the heads of a new (lesser deity) pantheon known as the Elemental Pantheon. Therefore, [the Elemental War](../../../History/the-elemental-war.md) began. Afterwards some Genies claiming they should have not had to fight for the right to the pantheon were very bitter at the loss of this war and retreated to the new organized version of the Elemental Chaos now deemed the Elemental Energy Plane in order to get stronger, strategize, and craft new powerful items. Genies have conquered large portions of these lands as their own as the only draconic residents are the new heads of the elemental pantheon and their families / chosen mortals. With this the retreat Genies often left behind cities they were in charge of and the populous now have mixed feelings about genies. Genies were known to leave treasure hoards guarded by mummies behind.
 
 ## Elemental Energy Plane
-During the Age of Elemental Lords the Genie's, who were spawned from elemental chaos as sentient elemental infused souls, sought to claim the title of Conquerers of the Elements and cement themselves at the top of this age by defeating and taming the primordials in the elemental chaos and reshaping it to their liking. This took decades and cost many lives but the result was no more chaos. They created the Elemental Energy Plane (Altaaqat Al'awalia).
+During the [Age of Elemental Lords](../../../History/age-of-elemental-lords.md) the Genie's, who were spawned from elemental chaos as sentient elemental infused souls, sought to claim the title of Conquerers of the Elements and cement themselves at the top of this age by defeating and taming the primordials in the elemental chaos and reshaping it to their liking. This took decades and cost many lives but the result was no more chaos. They created the Elemental Energy Plane (Altaaqat Al'awalia).
 
-*Note*: Genies are elemental infused souls bound to the EEP, like devils are bound to the Nine Hells, where as Genasi are partially elemental infused mortal souls. Meaning their souls may have ties to an element strong enough that on the River of Souls they may be drawn to and reincarnate as full Genies. 
+*Note*: Genies are elemental infused souls bound to the EEP, like devils are bound to [the Nine Hells](../../Outer%20Planes/Planes%20of%20Law/the-nine-hells.md), where as Genasi are partially elemental infused mortal souls. Meaning their souls may have ties to an element strong enough that on the [River of Souls](../../Transitive%20Planes/river-of-souls.md) they may be drawn to and reincarnate as full Genies. 
 
 ***Dragons in the EEP***: Due to their elemental affinity Dragons are able to draw on the power of Elemental Nexus's across the plane. while their souls may not be tied to the plane they are able to harness and consume the power of the plane to great effect. It is rumored a pilgramage to their align elemental subplane is required to ascend to Greatwyrm status.
 
 ### Design
-The EEP is a globe made up of two different 4-way venn diagrams. The north and south poles where all four elements overlap are the ends of a massive, planar sized magic core known as the *Pandemonium Stone* and item said to be able to harness and enhance any elemental power. It has two poles meaning where the subplanes (*described below*) are affected by which end of the *Pandemonium Stone* they are nearest to.
+The EEP is a globe made up of two different 4-way venn diagrams. The north and south poles where all four elements overlap are the ends of a massive, planar sized magic core known as the *[Pandemonium](../../../Godmetals%20and%20Unique%20Elements/pandemonium.md) Stone* and item said to be able to harness and enhance any elemental power. It has two poles meaning where the subplanes (*described below*) are affected by which end of the *[Pandemonium](../../../Godmetals%20and%20Unique%20Elements/pandemonium.md) Stone* they are nearest to.
 
 ## Subplanes (Planar partitions)
 The two overlaping 4-way venn diagrams create an imense number of partitions in this plane where various different overlaps of the pure elements of earth, air, fire, and water create all kinds of different planes. Throughout this section we will describe the various planes, the landscape, inhabitants, unique environemntal or magic effects, and some quests, plot hooks, or the purpose of the plane itself.
@@ -75,7 +75,7 @@ Where two of the above pure partions overlap to create different elements. A sym
 
 - (+) Aquablaze Haven, The plane of steam: Aquablaze Haven is a unique world where water and fire exist in harmony. The landscape features mesmerizing geysers, steamy jungles, and peaceful hot springs. Inhabitants are both fire-wielding aquatic creatures and water-resistant fire beings. 
 
-- (-) Vapor Bayou, The plane of mist: Steamscorch Wastes is a place of hot uncomfortable humid hot swamps blanketed in a layer of mist. The ground is rough obsidian like stone. Small vents and searing geysers spout out through cracks in the ground. The land is barren and unforgiving, inhabited by volatile steam elementals and scalding lava creatures. 
+- (-) Vapor [Bayou](../../../Rithmia/Continents/Azula/the-bayou.md), The plane of mist: Steamscorch Wastes is a place of hot uncomfortable humid hot swamps blanketed in a layer of mist. The ground is rough obsidian like stone. Small vents and searing geysers spout out through cracks in the ground. The land is barren and unforgiving, inhabited by volatile steam elementals and scalding lava creatures. 
 
 ## Tri-partitions: 
 In areas where three planes overlap their power gets more intense at the center where their is the most overlap. Creating a strong Elemental Nexus that is a condensed generator powering the plane around it.
@@ -109,7 +109,7 @@ In areas where three planes overlap their power gets more intense at the center 
     - Landscapes: 
         - Aetherial Chasms: The Graviflow Nexus is a realm of immense, floating landmasses that defy conventional gravitational expectations. These floating islands, often covered in lush forests and interconnected by breathtaking bridges, hover in the skies, making for a breathtaking sight. 
         - Tidal Moonscapes: Within the realm, you'll find vast tidal pools, remnants of the ebb and flow of gravitational forces. These pools mirror the phases of celestial bodies and harbor unique ecosystems that flourish with the shifting gravitational tides. 
-        - Abyssal Siphon: Beneath the floating islands, a dark and enigmatic abyss beckons. The depths are a confluence of gravitationally bound waters, teeming with eerie bioluminescent creatures and secrets that lure explorers into its depths.  
+        - Abyssal Siphon: Beneath the floating islands, a dark and enigmatic [abyss](../../Outer%20Planes/Planes%20of%20Chaos/the-abyss.md) beckons. The depths are a confluence of gravitationally bound waters, teeming with eerie bioluminescent creatures and secrets that lure explorers into its depths.  
     - Inhabitants: The Graviflow Nexus is inhabited by beings that have adapted to the ever-changing forces of gravity, showcasing unique abilities and powers: 
         - Skytreaders: Skytreaders are the natives of the floating islands, and they move with elegance through the ever-shifting terrain. They have an innate connection to the gravitational fields, allowing them to traverse the landscape with grace. 
         - Tidal Drifters: Tidal Drifters are aquatic beings that dwell in the tidal pools, adept at navigating the gravitational flux and providing insights into the realm's intricate tides. 
@@ -124,13 +124,13 @@ In areas where three planes overlap their power gets more intense at the center 
     - Journeys to the Graviflow Nexus often revolve around unlocking the secrets of the gravitational forces and the elemental convergence of earth, air, and water. Travelers may seek to understand the patterns of gravity within the realm, uncover the mysteries of the abyssal depths, or uncover the hidden powers of the celestial bodies that influence this extraordinary realm. 
     - The Graviflow Nexus is a realm of dynamic equilibrium where the forces of gravity are a constant, guiding influence. Its surreal landscapes, extraordinary inhabitants, and remarkable magical properties make it a realm of perpetual wonder and danger, drawing explorers and scientists alike to uncover its enigmatic secrets. 
 
-- (-) Tempestual Abyss: Tempestual Abyss is a tumultuous expanse of stormy seas, massive water spouts, and jagged rock formations. The combination of these elements creates a hazardous environment inhabited by monstrous sea and storm creatures. 
+- (-) Tempestual [Abyss](../../Outer%20Planes/Planes%20of%20Chaos/the-abyss.md): Tempestual [Abyss](../../Outer%20Planes/Planes%20of%20Chaos/the-abyss.md) is a tumultuous expanse of stormy seas, massive water spouts, and jagged rock formations. The combination of these elements creates a hazardous environment inhabited by monstrous sea and storm creatures. 
 
 ### Earth, Fire, and Water Overlap (Lunar, Strong Force) : 
 
 - (+) Geothermal Oasis: Geothermal Oasis is a realm where bubbling hot springs, steamy geysers, and fertile volcanic soil create a unique and thriving ecosystem. Earth, fire, and water live in harmony, giving rise to vibrant plant life and aquatic creatures. Inhabitants are skilled geothermancers who use the fusion of these elements for healing and growth. 
 
-- (-) Molten Abyss: Molten Abyss is a nightmarish world of perpetual eruptions, magma oceans, and scalding steam clouds. The environment is treacherous, inhabited by fire demons, monstrous sea creatures, and destructive water elementals. 
+- (-) Molten [Abyss](../../Outer%20Planes/Planes%20of%20Chaos/the-abyss.md): Molten [Abyss](../../Outer%20Planes/Planes%20of%20Chaos/the-abyss.md) is a nightmarish world of perpetual eruptions, magma oceans, and scalding steam clouds. The environment is treacherous, inhabited by fire demons, monstrous sea creatures, and destructive water elementals. 
 
 ### Air, Fire, and Water Overlap (electromagnetic): 
 
@@ -140,10 +140,10 @@ In areas where three planes overlap their power gets more intense at the center 
 
  
 
-## Pandemonium
-The poles are the ends of a massive core known as the Pandemonium stone.  
+## [Pandemonium](../../../Godmetals%20and%20Unique%20Elements/pandemonium.md)
+The poles are the ends of a massive core known as the [Pandemonium](../../../Godmetals%20and%20Unique%20Elements/pandemonium.md) stone.  
 
-### The Luminous Nexus - Plane of Elemental Harmony, Apex Pandemonium (Time, Ether) 
+### The Luminous Nexus - Plane of Elemental Harmony, Apex [Pandemonium](../../../Godmetals%20and%20Unique%20Elements/pandemonium.md) (Time, Ether) 
 - Description: The Luminous Nexus is a realm of ethereal beauty and profound tranquility. The atmosphere is bathed in an otherworldly, gentle radiance, where the very air sparkles with a silvery luminescence. A sense of serenity envelops everything, and the harmonious union of the elements and positive energy infuse the landscape with an aura of life and vitality. This is a place where the four overlaping elements of earth, air, fire, and water exist in a state of harmony. Calm cycles from one to the next create serene landscapes and a feeling of peace. 
 - Landscapes: 
     - Crystalline Mountains: The land is adorned with immense, crystalline mountains that appear to be sculpted from precious gems. These mountains exude a soothing, warm light and are home to luminous flora that seem to feed on the radiant energy that permeates the terrain. 
@@ -166,7 +166,7 @@ The poles are the ends of a massive core known as the Pandemonium stone.
 
  
 
-### The Abyssal Crucible - Plane of Elemental Discord (Void, ether) Deep Pandemonium  
+### The Abyssal Crucible - Plane of Elemental Discord (Void, ether) Deep [Pandemonium](../../../Godmetals%20and%20Unique%20Elements/pandemonium.md)  
 - Description: The Abyssal Crucible is a place of perpetual turmoil and darkness, where the very air feels heavy with dread. The twisted fusion of elemental forces and negative energy permeates the landscape with an unsettling aura of desolation and destruction. The four pure elements seemingly fight eachother in a state of pure chaos. 
 - Landscapes: 
     - Volcanic Wastes: Jagged and seething, the land of the Abyssal Crucible is dominated by immense volcanoes that spew forth molten rock and rivers of shadowy, corrosive ooze. The very earth is cracked and crumbling, revealing a core of dark, pulsating energy. 

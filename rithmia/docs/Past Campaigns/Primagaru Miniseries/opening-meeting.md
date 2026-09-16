@@ -1,4 +1,4 @@
 # Opening meeting
-Regular meeting between the amethyst enclave about the pandemonium stone and using the inner elements to close off portals to outer plane. Towards the end Have the half Minotaur half Tiefling enter at the end when someone asks who the pandemonium stone should be delivered to. 
+Regular meeting between [the amethyst enclave](../../Setting/Rithmia/Worldwide%20Factions/the-amethyst-enclave.md) about the [pandemonium](../../Setting/Godmetals%20and%20Unique%20Elements/pandemonium.md) stone and using the inner elements to close off portals to outer plane. Towards the end Have the half Minotaur half Tiefling enter at the end when someone asks who the [pandemonium](../../Setting/Godmetals%20and%20Unique%20Elements/pandemonium.md) stone should be delivered to. 
 
-This blood cleric of asmodeus is leading a crusade on the jaws of the earth where scourge have over run the area assimilating civilians into what has been deemed a "scourge thrall". 
+This blood cleric of [asmodeus](../../Setting/Religion/Greater%20Deities/asmodeus-the-devil.md) is leading a crusade on the jaws of the earth where [scourge](../../Setting/Creatures/scourge.md) have over run the area assimilating civilians into what has been deemed a "[scourge](../../Setting/Creatures/scourge.md) thrall". 

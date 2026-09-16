@@ -12,16 +12,16 @@ The names of each continent are the names of the great Kingdoms of Land that ini
 
 Kingdom of water (heavy capitalists riddled with greed, also raid the other two kingdoms) 
 
-Subterranean kingdom (intellectuals lots of wizards and artificers also a mostly communist society where people are assigned roles at a ritual of maturity like in the giver) Ancient Najara, once contacted by extraplanar creatures made advancements in science and magic and became victorious in this millennia long Cold War  
+Subterranean kingdom (intellectuals lots of wizards and artificers also a mostly communist society where people are assigned roles at a ritual of maturity like in the giver) [Ancient Najara](../Rithmia/Continents/Glaushun/ruins-of-ancient-najara.md), once contacted by extraplanar creatures made advancements in science and magic and became victorious in this millennia long Cold War  
 
-All out war was halted when Lemos negotiated the longest standing peace treaty of the era. Possibly stopping complete annihilation on all sides who would release all arcane power available. 
+All out war was halted when [Lemos](../Religion/Lesser%20Deities/lemos-the-enlightened.md) negotiated the longest standing peace treaty of the era. Possibly stopping complete annihilation on all sides who would release all arcane power available. 
 
 War became active between the Kingdoms of Land and Water leading to arcane weapons of mass destruction being tested and threatened to be used. 
 
-Ki'Una's story lands here as she was a Circle of Moon druid and fell in love with an Archivist from the Kingdom of Land, and stopped them from eradicating all life in the Ocean. 
+[Ki'Una](../Religion/Lesser%20Deities/ki%27una-the-wayfarer.md)'s story lands here as she was a Circle of Moon druid and fell in love with an Archivist from the Kingdom of Land, and stopped them from eradicating all life in the Ocean. 
 
 Ended due to Open air crusade where the underground coalition of Najara, dao, and xiomorns who conquered a majority of the population. This led to the Reptillian age where the Najaran Empire spread around the world and the underdark was turned over to the Dao and Xiomorns who then molded the underdark from a vast series of cavern to a interconnected web of traversable tunnels. 
 
 ## Immigration to each continent
-### Azula: 
-Azula was an empire largly made of Animalfolk who sought new geographic areas that suited their lifestyle. They felt most connection to Gaia and thus had heavy ideals of naturalism, cultivation, and preservation. They were expert fisherman which is partially what led to the Tidevault empires animosity towards them.   
+### [Azula](../Rithmia/Continents/Azula/overview.md): 
+[Azula](../Rithmia/Continents/Azula/overview.md) was an empire largly made of Animalfolk who sought new geographic areas that suited their lifestyle. They felt most connection to [Gaia](../Religion/Greater%20Deities/gaia-the-allmother.md) and thus had heavy ideals of naturalism, cultivation, and preservation. They were expert fisherman which is partially what led to the Tidevault empires animosity towards them.   

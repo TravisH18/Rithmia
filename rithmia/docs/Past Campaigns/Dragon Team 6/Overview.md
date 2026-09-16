@@ -1,5 +1,5 @@
 # Overview
-Party is special ops group for dragon overlord during the Elemental War 
+Party is special ops group for dragon overlord during [the Elemental War](../../Setting/History/the-elemental-war.md) 
 
 Important points 
 
@@ -10,7 +10,7 @@ Important points
     - Chaotic vs lawful dragons 
         - Chaotic have subjugated the giants and are super awful to them 
         - Lawful dragons are working with mortals 
-    - The psionic gem dragons should be rare 
+    - The psionic [gem dragons](../../Setting/Creatures/Dragons/gem-dragons.md) should be rare 
 
 ## Arial combat
 http://anyflip.com/ogyal/pchk MORE 

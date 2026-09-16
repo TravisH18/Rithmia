@@ -1,7 +1,7 @@
 # Serpent Garden
 This is an immense jungle  covers the south eastern corner of the continent is named for the multitude of rivers that cut and wind through the jungle. 
 
-Serpent garden is broken up into two sections: 
+Serpent garden is [broken](../../../Religion/Lesser%20Deities/sangwena-the-broken.md) up into two sections: 
 - The Predator Jungles 
 - Feral Tropics 
 
@@ -9,7 +9,7 @@ Predator Jungle is full of lairs of several powerful creatures serpentine/reptil
 
 Feral Tropics is full of civilized groups of tabaxi, an ape men. 
 
-This was once the origin of the underground empire which evolved into Ancient Najara post age of division war. Catacombs and underground tombs cover the swampy marshes of the rainforest. 
+This was once the origin of the underground empire which evolved into [Ancient Najara](ruins-of-ancient-najara.md) post [age of division](../../../History/age-of-division.md) war. Catacombs and underground tombs cover the swampy marshes of the rainforest. 
 
 # Creatures found:  
 - Brass dragon

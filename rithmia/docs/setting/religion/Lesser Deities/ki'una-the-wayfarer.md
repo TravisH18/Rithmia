@@ -4,9 +4,9 @@
 | **Alignment** | CG |
 | **Domains** | Twilight, Protection, Mind, Beauty, Sky, Moon  |
 | **Divine Realm** | Io, Moon of Rithmia |
-| **Allies** | Gharian, Xinthris, Gaia |
+| **Allies** | [Gharian](../Greater%20Deities/gharian-the-jolly.md), [Xinthris](../Greater%20Deities/xinthris-the-weaver.md), [Gaia](../Greater%20Deities/gaia-the-allmother.md) |
 | **Enemies** |  |
-| **Relationships** | Promoted to godhood from mortality by Gharian |
+| **Relationships** | Promoted to godhood from mortality by [Gharian](../Greater%20Deities/gharian-the-jolly.md) |
 | **Temples** | observatories, temples, libraries, churches  |
 | **Worshippers** | Illusionists, lycanthropes, oracles, wanderers, sailors, astrologers, Circle of the Moon Druids |
 | **Sacred Animal** | Grey Whale |
@@ -15,5 +15,5 @@
 | **Anathema** | Hating others who are different than you. Ignoring signs in the stars is the highest form of ignorance. We mustn't change the course of fate  |
 | **Symbols** | U-shaped pale blue Crystalline moon |
 | **Herald** | *replace* |
-| **Lore** | God of dreams, illusions, imagination as well as the moon, and travel and exploration. Promoted to godhood by Janus for playing the largest role in stopping the deployment of a weapon of mass destruction that would have killed all oceanic life |
+| **Lore** | God of dreams, illusions, imagination as well as the moon, and travel and exploration. Promoted to godhood by [Janus](../Greater%20Deities/janus-the-judge.md) for playing the largest role in stopping the deployment of a weapon of mass destruction that would have killed all oceanic life |
 | **Creations** | *replace* | 

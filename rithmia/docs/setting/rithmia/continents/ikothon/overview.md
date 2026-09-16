@@ -1,5 +1,5 @@
 # Overview 
-Wild west theme west of the mountains but in the valley we should work in a eastern African theme with this being the rift valley. Possibly a strong isolationist nation like the Ethiopian Empire this being a theocracy of divine soul sorcerers said to be descended from a god (Ados / Gharian). This nation should have long standing beef with Brhymn a newer nation in comparison but a rival theocracy. 
+Wild west theme west of the mountains but in the valley we should work in a eastern African theme with this being the rift valley. Possibly a strong isolationist nation like the Ethiopian Empire this being a theocracy of divine soul sorcerers said to be descended from a god (Ados / [Gharian](../../../Religion/Greater%20Deities/gharian-the-jolly.md)). This nation should have long standing beef with [Brhymn](brhymn.md) a newer nation in comparison but a rival theocracy. 
 
 Pathfinder Storval Plateau and Cinderlands 
 

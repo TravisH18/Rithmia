@@ -1,7 +1,7 @@
 # Steel Citadel
-Hobgoblin empire in the north eastern stormy willows and eastern earthfast mountains. 
+Hobgoblin empire in the north eastern [stormy willows](stormy-willows.md) and eastern earthfast mountains. 
 
-Hobgoblin/goblin empire expanding in the Stormy willows (full of willow trees) 
+Hobgoblin/goblin empire expanding in the [Stormy willows](stormy-willows.md) (full of willow trees) 
 - Population is probably ~2,000 total 
 - They recently delved into the monestary catacombs  with the help of Ivan, The Howling Wind, and stole several ancient scrolls.  
     - Stealing these uncovered the ancient secret to using a special metal tempered with dragon's blood in order to create the Vorpal quality.  

@@ -39,7 +39,7 @@ Domains: Earth, Strength, Protection
 
 Divine Realm: The Granite Citadel 
 
-Allies: Gaia, The Earth (Deity of Nature and Life) 
+Allies: [Gaia](../../Greater%20Deities/gaia-the-allmother.md), The Earth (Deity of Nature and Life) 
 
 Enemies: None specified 
 

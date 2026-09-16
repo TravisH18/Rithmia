@@ -3,7 +3,7 @@ sidebar_position: 11
 ---
 # Age of Myth (0PD - 2,900PD)
 This is the default campaign setting. There are hundreds of years to play any fantastical genres.
-Began at the end of the elemental war 
+Began at the end of [the elemental war](the-elemental-war.md) 
 
 Ended when elemental vortexes and all other means of planar travel were sealed to prevent extraplanar invasion. 
 
@@ -13,22 +13,22 @@ This is the base era for most of the standard D&D games in this setting will be 
 
 This is a mythical age of nearly three thousand years with these set dates so go wild with the setting of your campaign given the following guidelines: 
 
-Dragons came out on top of the war so most of the early empires are led by dragon's. These pockets of grand civilization have unique cultures depending on the dragons who rule them. Some metallic dragons create the first orders of knights/paladins cultivating cultures based on honor, and truths (a place like this is where we find a young Torm who befriends a golden dragon as a young boy). Other's become the first tyrants creating harsh environments where only those puny mortals they favor may survive (think the obsidian dragon who wipes out the red dragons in western Glaushun and enslaves any fire resistant race specifically the fire giants who held the land and dominated some dragons themselves previously. Finally certain dragons bolster a nation of intelligence and forward thinking (like our silver dragon who founds the Master Library in Glaushun after his best friend / lover the mist dragon passes). 
+Dragons came out on top of the war so most of the early empires are led by dragon's. These pockets of grand civilization have unique cultures depending on the dragons who rule them. Some metallic dragons create the first orders of knights/paladins cultivating cultures based on honor, and truths (a place like this is where we find a young [Torm](../Religion/Lesser%20Deities/torm-the-devoted.md) who befriends a golden dragon as a young boy). Other's become the first tyrants creating harsh environments where only those puny mortals they favor may survive (think the obsidian dragon who wipes out the red dragons in western [Glaushun](../Rithmia/Continents/Glaushun/overview.md) and enslaves any fire resistant race specifically the fire giants who held the land and dominated some dragons themselves previously. Finally certain dragons bolster a nation of intelligence and forward thinking (like our silver dragon who founds the Master Library in [Glaushun](../Rithmia/Continents/Glaushun/overview.md) after his best friend / lover the mist dragon passes). 
 
-Giants civilization is broken and there is no unity amongst the different giant races like there was during the war. The infighting over who is the dominant race becomes a cornerstone of their culture. Some still hold that they need to regroup and tear down these dragon overlords but can never quite bolster enough support amongst all the races. 
+Giants civilization is [broken](../Religion/Lesser%20Deities/sangwena-the-broken.md) and there is no unity amongst the different giant races like there was during the war. The infighting over who is the dominant race becomes a cornerstone of their culture. Some still hold that they need to regroup and tear down these dragon overlords but can never quite bolster enough support amongst all the races. 
 
-Genie's almost all retreat into the EEP through newly created elemental vortices that stay behind permanently in the material plane. Elemental power seeps into the land around these portals and Eun'sur, monks, and other scholars gather around to harness their power. Children born near these vortices have a chance of being born with a deep genetic tie to the elements and the first Genasi start being born in Rithmia. 
+Genie's almost all retreat into the EEP through newly created elemental vortices that stay behind permanently in [the material plane](../Cosmology/material-plane.md). Elemental power seeps into the land around these portals and Eun'sur, monks, and other scholars gather around to harness their power. Children born near these vortices have a chance of being born with a deep genetic tie to the elements and the first Genasi start being born in Rithmia. 
 
 Rithmia is full a high fantasy setting, go nuts but realize the 8 Prime gods are real and are playing nearly 15000 year game of chess against an eldritch outer god. 
 
-Use the Worldwide Factions wherever necessary throughout this age. 
+Use the Worldwide [Factions](../Rithmia/Continents/Glaushun/factions.md) wherever necessary throughout this age. 
 
-Throughout this age the Pillars of Restraint will fall one by one. Starting with the Pillar of the coast of Azula allowing the Kaiju Primagaru to be released near the continent where it sought to destroy the World Tree 
+Throughout this age the [Pillars of Restraint](../Rithmia/pillars-of-restraint.md) will fall one by one. Starting with the Pillar of the coast of [Azula](../Rithmia/Continents/Azula/overview.md) allowing the Kaiju Primagaru to be released near the continent where it sought to destroy the World Tree 
 
 ### 0PD - 200PD: 
 Dark ages / rebuilding period 
 
-Elders of the elemental war die off, leave behind remnants of nations that only knew war for 50 years (that's like 1-2 generation that changes people and brings about the survival mindset of the period). Some areas will be in ruin, some will be better off, but no one will be overly prosperous so rebuilding from scratch is needed. 
+Elders of [the elemental war](the-elemental-war.md) die off, leave behind remnants of nations that only knew war for 50 years (that's like 1-2 generation that changes people and brings about the survival mindset of the period). Some areas will be in ruin, some will be better off, but no one will be overly prosperous so rebuilding from scratch is needed. 
 
 Think bronze age collapse. 
 
@@ -52,7 +52,7 @@ Magical Renaissance / Renaissance / Rise of nations
 
 Aetherpunk / magicpunk themes. 
 
-Still medieval inspired but it is a world of magic, airships (powered by Brumestone) and heavy Elemental energy influence 
+Still medieval inspired but it is a world of magic, airships (powered by [Brumestone](../Godmetals%20and%20Unique%20Elements/brumestone.md)) and heavy Elemental energy influence 
 
 In this age the "power" comes from the elements 
 
@@ -68,31 +68,31 @@ Sorcerous bloodlines rule in parts of the world. Mage Academies and Bardic colle
 
 Transition catalyst: Overharvesting of elements and elemental vortices destabilize the planet's magical current (The Weave) causing natural disasters and resource scarcity. 
 
-Discovery of Etherite leads nations near the iron mountains to begin to electrically power their cities and become powerhouse nations. Arcane ability will no longer be the only way for cities to be "powered" leading to a common man renaissance. 
+Discovery of [Etherite](../Godmetals%20and%20Unique%20Elements/etherite.md) leads nations near the iron mountains to begin to electrically power their cities and become powerhouse nations. Arcane ability will no longer be the only way for cities to be "powered" leading to a common man renaissance. 
 
 ### 1000PD - 1400PD 
 Modern / Steampunk 
 
-Etherite is spread the world over as a main power source. 
+[Etherite](../Godmetals%20and%20Unique%20Elements/etherite.md) is spread the world over as a main power source. 
 
-Etherite's steam powered machines dominate new markets as steam replaces pure elemental energy. 
+[Etherite](../Godmetals%20and%20Unique%20Elements/etherite.md)'s steam powered machines dominate new markets as steam replaces pure elemental energy. 
 
 Most faith's begin to dwindle in popularity as cleric/paladin power in terms of guard / warfare is taken up by the common man and machinery. 
 
 Factories, clockwork automatons, and brass gadgets dominant the streets. 
 
-Pollution, deforestation and other effects of mining for etherite lead to conflict between environmentalists and the new industrialists. 
+Pollution, deforestation and other effects of mining for [etherite](../Godmetals%20and%20Unique%20Elements/etherite.md) lead to conflict between environmentalists and the new industrialists. 
 
 Gulf between wealthy industrialists and oppressed workers grows wide. 
 
-Transition catalyst: A great smog caused by new factories causes Eun'sur lead revolt as they charge and destroy massive mines harvesting Etherite. Destroying this mine releases some long hidden underground creature that rampages and destroys a massive nearby metropolis. 
+Transition catalyst: A great smog caused by new factories causes Eun'sur lead revolt as they charge and destroy massive mines harvesting [Etherite](../Godmetals%20and%20Unique%20Elements/etherite.md). Destroying this mine releases some long hidden underground creature that rampages and destroys a massive nearby metropolis. 
 
 In this transition there could be a brief Dieselpunk interlude. This iron age could have many wars sparking technological innovations. This war will be fought with armored tanks and combustion engines but will be won once the power of the sun is unleashed with an atomic bomb. 
 
 ### 1400PD - 1900 PD 
 Solarpunk / Rise in religion 
 
-The Church of Gharian scholars discover solar power by using Solite which can be harvested without harmful environmental impacts. 
+The Church of [Gharian](../Religion/Greater%20Deities/gharian-the-jolly.md) scholars discover solar power by using [Solite](../Godmetals%20and%20Unique%20Elements/solite.md) which can be harvested without harmful environmental impacts. 
 
 After a secular 600 years the faiths are able to bring people together as mass industrialization has destroyed many communities. 
 
@@ -104,7 +104,7 @@ Some cults worship solar power as a deity of it's own.
 
 Masses flock to Jericho's ladder during the Week Day a time in the southern sea where the sun doesn't set for weeks. 
 
-This era should be when space travel goes beyond the moons of Rithmia using solar sails space exploration is possible and all the planets of the solar system are visited by Rithmians 
+This era should be when space travel goes beyond the [moons of Rithmia](../Rithmia/moons.md) using solar sails space exploration is possible and all the planets of the [solar system](../Cosmology/Solar%20System/overview.md) are visited by Rithmians 
 
 Should be full treasure planet solar punk 
 
@@ -155,7 +155,7 @@ People integrate tech into their body with prosthetics, implants and other biote
 
 Space Exploration Via Helms is possible. Discovered and utilized by technofeudal companies to create company town in space 
 
-Transition catalyst: A rogue bioweapon accidentally resurrects ancient Scourge beings thought erased from existence destabilizing the world. 
+Transition catalyst: A rogue bioweapon accidentally resurrects ancient [Scourge](../Creatures/scourge.md) beings thought erased from existence destabilizing the world. 
 
 ### 2400PD - 2900PD 
 Space age / Complete Hybrid punk 
@@ -166,46 +166,46 @@ A fragile alliance of mages, engineers, and biohackers govern a patchwork world 
 
 Ritmian's make contact through space travel to all other planets (portals could be used for world hopping previously) 
 
-Mortals make contact with Torm's watchers at the edge of the Solar System 
+Mortals make contact with [Torm](../Religion/Lesser%20Deities/torm-the-devoted.md)'s watchers at the edge of the [Solar System](../Cosmology/Solar%20System/overview.md) 
 
-This metaphysical barricade is broken after Torm, The Last Demigod is slain.  
+This metaphysical barricade is [broken](../Religion/Lesser%20Deities/sangwena-the-broken.md) after [Torm](../Religion/Lesser%20Deities/torm-the-devoted.md), The Last Demigod is slain.  
 
-Ends with a new Cataclysm incited by a group of wizards who conducted a mysterious arcane ritual trapping the world in a permanent statis under a purple moon leading to the "release of Yith'Zizctal" 
+Ends with a new Cataclysm incited by a group of wizards who conducted a mysterious arcane ritual trapping the world in a permanent statis under a purple moon leading to the "[release of Yith'Zizctal](release-of-yith%27zizctal.md)" 
 
-Perhaps an underlying reason is that if the world was not trapped in stasis the full barage of the unspeakable one's scourge would have invaded the Rithmiasphere. 
+Perhaps an underlying reason is that if the world was not trapped in stasis the full barage of [the unspeakable one](../Religion/Outer%20Deities/the-unspeakable-one.md)'s [scourge](../Creatures/scourge.md) would have invaded the Rithmiasphere. 
 
 ## Key Dates: 
 
-1PD The Dragon Empire is founded helmed by the (currently) oldest living dragon the gold dragon, Ceolruleid, The Unhesitant Protector 
+1PD [The Dragon Empire](../Rithmia/Continents/Bredoa/the-dragon-empire.md) is founded helmed by the (currently) oldest living dragon the gold dragon, Ceolruleid, The Unhesitant Protector 
 
-48PD The First Phoenix Godking ascends to power, establishes Verubia. 
+48PD The First Phoenix Godking ascends to power, establishes [Verubia](../Rithmia/Continents/Azula/verubia.md). 
 
-199PD Tiamat's Rise from Avernus and corruption of all adult or younger chromatic dragons. 
+199PD [Tiamat's Rise](tiamats-rise.md) from Avernus and corruption of all adult or younger chromatic dragons. 
 
-202PD Tiamat is defeated. Three mortal knights are raised to godhood: Torm, Qandia, and Mawara 
+202PD Tiamat is defeated. Three mortal knights are raised to godhood: [Torm](../Religion/Lesser%20Deities/torm-the-devoted.md), [Qandia](../Religion/Lesser%20Deities/qandia-the-cunning.md), and [Mawara](../Religion/Lesser%20Deities/mawara-the-watcher.md) 
 
-203PD Amethyst Enclave is founded. 
+203PD [Amethyst Enclave](../Rithmia/Worldwide%20Factions/the-amethyst-enclave.md) is founded. 
 
 359PD The future Ghoul Emperor makes a deal with a Black Dragon Matriarch and begins his centuries long takeover of the local magocratic alliance. 
 
-439PD The Ghoul Emperor turns the once lush rainforest and swamps of Southwestern Glaushun into the Witherwaste through a vile ritual acending to his position as the undead emperor 
+439PD The Ghoul Emperor turns the once lush rainforest and swamps of Southwestern [Glaushun](../Rithmia/Continents/Glaushun/overview.md) into the [Witherwaste](../Rithmia/Continents/Glaushun/witherwaste.md) through a vile ritual acending to his position as the undead emperor 
 
-684PD Iggwilv releases a demonic horde upon the Stormy Willows  
+684PD Iggwilv releases a demonic horde upon the [Stormy Willows](../Rithmia/Continents/Glaushun/stormy-willows.md)  
 
 706PD Ulgar conquers the Isle of Werewolves after returning from the Plane of Shadow with the stolen Book of Vile Darkness which he seeks to destroy once and for all. 
 
-785PD Four Degenerates campaign begins 
+785PD [Four Degenerates](../../Past%20Campaigns/Four%20Degenerates/Overview.md) campaign begins 
 
-790PD Four Degenerates campaign ends with the Scourge Invasion and the defense of the world tree against the Kaiju, Primagaru all traces of Scourge on Rithmia are wished away saving the world.  
+790PD [Four Degenerates](../../Past%20Campaigns/Four%20Degenerates/Overview.md) campaign ends with [the Scourge](../Creatures/scourge.md) Invasion and the defense of the world tree against the Kaiju, Primagaru all traces of [Scourge](../Creatures/scourge.md) on Rithmia are wished away saving the world.  
 
 Due to the might of this feat alone James is the first mortal in millennia to earn the title Sorcerer Supreme.  
 
-With the defeat of his herald the Unspeakable one released the remaining 5 of the Seven apocalyptic deities upon the material plane. 
+With the defeat of his herald [the Unspeakable one](../Religion/Outer%20Deities/the-unspeakable-one.md) released the remaining 5 of the Seven [apocalyptic deities](../Religion/Outer%20Deities/apocalyptic-deities.md) upon [the material plane](../Cosmology/material-plane.md). 
 
-791PD First meeting with the avatar of wrath the apocalyptic deities are revealed. 
+791PD First meeting with the avatar of wrath [the apocalyptic deities](../Religion/Outer%20Deities/apocalyptic-deities.md) are revealed. 
 
-807PD First success brumestone skyship flight across the ocean is completed. (Using electric creatures as a fuel for now). 
+807PD First success [brumestone](../Godmetals%20and%20Unique%20Elements/brumestone.md) skyship flight across the ocean is completed. (Using electric creatures as a fuel for now). 
 
-848PD Etherite discovered in a literal ghost town where the largest permanent overlap to the ethereal realm exists. 
+848PD [Etherite](../Godmetals%20and%20Unique%20Elements/etherite.md) discovered in a literal ghost town where the largest permanent overlap to the ethereal realm exists. 
 
-999PD "Death of the Heralds" event where Heralds of the original 8 deities of Rithmia are slaughtered one by one by the apocalyptic deities and their avatars and followers.  
+999PD "Death of the Heralds" event where Heralds of the original 8 deities of Rithmia are slaughtered one by one by [the apocalyptic deities](../Religion/Outer%20Deities/apocalyptic-deities.md) and their avatars and followers.  

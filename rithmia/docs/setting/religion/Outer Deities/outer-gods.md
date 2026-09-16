@@ -5,4 +5,4 @@ There are at least 7 of them that are unique entities but they are not individua
 
 Might be interesting to create a version of the photino birds from the xeelee sequence as well 
 
-There is another group that all represent a color of the visible spectrum and in turn govern a fundamental force of the universe. The Unspeakable one is violet and governs Entropy
+There is another group that all represent a color of the visible spectrum and in turn govern a fundamental force of the universe. [The Unspeakable one](the-unspeakable-one.md) is violet and governs Entropy

@@ -1,11 +1,11 @@
 # Grazing Planes
 Lots of ranches, wildlife, cattle 
 
-Dominated by humans, leonin, and bird folk. Lots of mirgrants from Azula 
+Dominated by humans, leonin, and bird folk. Lots of mirgrants from [Azula](../Azula/overview.md) 
 
 Beautiful coasts are the home to large port cities and one of the three rivers that conencts the sea of stars to the oceans flows through here. 
 
-Borders the serpent gardens with a small mountain range seperating the two areas 
+Borders the [serpent gardens](serpent-garden.md) with a small mountain range seperating the two areas 
 
 Mix of African safari / united states great plains 
 

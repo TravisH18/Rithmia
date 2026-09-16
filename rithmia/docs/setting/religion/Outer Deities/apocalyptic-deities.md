@@ -1,7 +1,7 @@
 # The Apocalyptic Deities
 These deities are more akin to demigods. Created from the empowering of sin by The Unspeakable, bolstered by mortal emotions. 
 
-OG Sins in parenthesis. Or new school ones from Chains of Asmodeus could be used instead  
+OG Sins in parenthesis. Or new school ones from Chains of [Asmodeus](../Greater%20Deities/asmodeus-the-devil.md) could be used instead  
 
 The Doombringer, Lord of Pride: Tall broad and bald grey skinned masculine figure with pointed ears and pitch black horns. Thick black leather wrist bands that extend to the elbow 
 

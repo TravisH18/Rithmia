@@ -1,5 +1,5 @@
 # Rithmian Zodiac
-The zodiac was indirectly created by Gaia, these were the first creation of theirs on Rithmia and she took inspiration for creation each one from a constelation in the sky.
+The zodiac was indirectly created by [Gaia](../Religion/Greater%20Deities/gaia-the-allmother.md), these were the first creation of theirs on Rithmia and she took inspiration for creation each one from a constelation in the sky.
 Rithmia's Zodiac's are based on the following animals: These are often the names of the months amongst druidic circles. 
 
 1. Aquervio - The Koi Waterbearer: Description: The Elemental Waterbearer is an massive fish with a nearly watery form. It carries an amphora filled with liquid starlight, pouring celestial waters to nurture the land. Even though it is called a koi it is the size of a blue whale and acts more akin to the whales we know on Earth. It's body has color patterns that seem to shift with the tides themselves. 
@@ -16,7 +16,7 @@ Rithmia's Zodiac's are based on the following animals: These are often the names
 
 7. Soleo - The Solar Lion Description: The Solar Lion is a regal creature with the body of a lion and arcane wings of golden flame. Its eyes emit solar flares, and its roar is said to awaken the sun each morning. 
 
-8. Virdora - The Chanting Raven Description: The Enchanting Weaver is a humanoid creature with vines for hair, weaving spells into the fabric of reality. She carries a staff adorned with blossoms that bloom with magical energy. 
+8. Virdora - The Chanting Raven Description: The Enchanting [Weaver](../Religion/Greater%20Deities/xinthris-the-weaver.md) is a humanoid creature with vines for hair, weaving spells into the fabric of reality. She carries a staff adorned with blossoms that bloom with magical energy. 
 
 9. Libraxis - The Ivory Elephant Description: The ivory Elephant is a snow white elephant with brilliant tusks. They embody the element of ice.  
 

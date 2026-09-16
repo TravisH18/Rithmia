@@ -5,6 +5,6 @@ Those wholly devoted to a deity or specific ideology to the end will have the ab
 
 Every dog who passes becomes a psychopomp for Janus, followers of Janus revere dogs and wolves similarly as Hindus view cows like a sacred animal. This means every dogs afterlife is playing fetch in some form. 
 
-Zeisis, The Reaper holds this entire river as their domain. Appearing as a skeletal grim reaper nearly a thousand feet tall steering a black ship equally proportional to him. The black cloak constantly tears creating grim reapers (the creature) to collect souls and bring them to the river. See this boat and Zeisis exist everywhere on the river constantly starting at the beginning for each new soul that must be brought to Janus 
+Ziesis, The Reaper holds this entire river as their domain. Appearing as a skeletal grim reaper nearly a thousand feet tall steering a black ship equally proportional to him. The black cloak constantly tears creating grim reapers (the creature) to collect souls and bring them to the river. See this boat and Ziesis exist everywhere on the river constantly starting at the beginning for each new soul that must be brought to Janus 
 
 “Death is not the end. It’s merely the beginning of a new path we all must take.” 

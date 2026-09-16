@@ -1,5 +1,5 @@
 # Frozen Wastes
-During the age of myth the goliaths and the ice giants of Bredoa exiled criminals to this land. 
+During the [age of myth](../../../History/age-of-myth.md) the goliaths and the ice giants of [Bredoa](../Bredoa/overview.md) exiled criminals to this land. 
 
  
 
@@ -16,4 +16,4 @@ Its gaze the last thing you'll feel."
 
 Basically an artic lich lives in a frozen tomb near the edge of the continent. Inside a glacial rift constantly surrounded by a veil of blizzard.  
 
-Raises undead exiled prisoners from Salphas to amass his army for an eventual invasion of the norther continents. 
+Raises undead exiled prisoners from [Salphas](../Salphas/overview.md) to amass his army for an eventual invasion of the norther continents. 
