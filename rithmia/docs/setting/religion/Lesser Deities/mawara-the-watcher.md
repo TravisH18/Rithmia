@@ -1,5 +1,5 @@
 # Mawara, The Watcher
-| Area of Conern | Responsibility |
+| Area of Concern | Responsibility |
 | --- | --- |
 | **Alignment** | N |
 | **Domains** | Stars, Protection, Knowledge |

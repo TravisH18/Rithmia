@@ -1,5 +1,5 @@
 # Asmodeus, The Devil
-| Area of Conern | Responsibility |
+| Area of Concern | Responsibility |
 | --- | --- |
 | **Alignment** | LE |
 | **Domains** | Law, contracts, tyranny, seals, deception |

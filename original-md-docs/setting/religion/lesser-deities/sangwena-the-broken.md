@@ -1,5 +1,5 @@
 # Sangwena, The Broken
-| Area of Conern | Responsibility |
+| Area of Concern | Responsibility |
 | --- | --- |
 | **Alignment** | LE |
 | **Domains** | The Crimson Altar, The Mouth of The River Styx, Nine Hells |

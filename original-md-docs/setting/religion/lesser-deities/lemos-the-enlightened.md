@@ -1,5 +1,5 @@
 # Lemos, THe Enlightened
-| Area of Conern | Responsibility |
+| Area of Concern | Responsibility |
 | --- | --- |
 | **Alignment** | NG |
 | **Domains** | Knowledge, Learning, Peace |

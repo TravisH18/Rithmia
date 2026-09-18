@@ -1,5 +1,5 @@
 # Ki'Una, The Wayfarer
-| Area of Conern | Responsibility |
+| Area of Concern | Responsibility |
 | --- | --- |
 | **Alignment** | CG |
 | **Domains** | Twilight, Protection, Mind, Beauty, Sky, Moon  |

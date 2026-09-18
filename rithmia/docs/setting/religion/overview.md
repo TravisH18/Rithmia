@@ -1,5 +1,5 @@
 Gods of Rithmia Template 
-| Area of Conern | Responsibility |
+| Area of Concern | Responsibility |
 | --- | --- |
 | **Alignment** | *replace* |
 | **Domains** | *replace* |

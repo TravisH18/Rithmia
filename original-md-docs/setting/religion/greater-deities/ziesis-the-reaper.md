@@ -1,5 +1,5 @@
 # Ziesis, The Reaper
-| Area of Conern | Responsibility |
+| Area of Concern | Responsibility |
 | --- | --- |
 | **Alignment** | NE |
 | **Domains** | Death, darkness, pain, necromancy, sacrifice |

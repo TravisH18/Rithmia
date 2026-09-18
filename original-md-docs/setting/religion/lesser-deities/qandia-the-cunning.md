@@ -1,5 +1,5 @@
 # Qandia, The Cunning
-| Area of Conern | Responsibility |
+| Area of Concern | Responsibility |
 | --- | --- |
 | **Alignment** | NE |
 | **Domains** | Strategy, War, Leadership |

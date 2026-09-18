@@ -1,3 +1,4 @@
+# Rithmian Calendar
 Calendar system is all 12’s 288 days in a year 12 months of 24 days. 24 is one lunar cycle (12 waxing 12 waning could be the two weeks) 
 
 The 12 months are named after gaias first twelve beasts fantastical versions of the animals that make up the twelve zodiacs. The days are named after  

@@ -1,5 +1,5 @@
 # The Unspeakable One
-| Area of Conern | Responsibility |
+| Area of Concern | Responsibility |
 | --- | --- |
 | **Alignment** | CE |
 | **Domains** | Trickery, Ambition, Chaos, Abomination |

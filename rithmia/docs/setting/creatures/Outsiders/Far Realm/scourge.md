@@ -75,3 +75,6 @@ Eldritch priests (GHMG)
 
 ## Traits and Oddities
 Enough scourge crawlers in a small area can vibrate and ripple out psionic waves and explode a person like how bees kill via vibrating a melting bigger insects. This is what caused the nuclear blast seen from space 
+
+### Heartbeat of Tthe Consumer
+Since the scourge were formed from the essence of [Yith'Zizctal, The Consumer](../../../Religion/Outer%20Deities/yith'zizctal-the-consumer.md) they technically can not be fully killed unless slain in their native plane, [The Far Realm](../../../Cosmology/far-realm.md), however unlike other [Outsiders](../overview.md) their quintessence does not return to their home plane when they are killed. They shatter into microsopic specs and lie in wait. The Heartbeat of The Consumer deep within the planet keeps these miscroscopic specs alive. Meaning when you kill a scourge you create microscopic creatures that slowly begin to move towards eachother to reassemble into a large creature once again. This can take centuries to millenia but they perservere.

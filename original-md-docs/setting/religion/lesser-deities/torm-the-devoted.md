@@ -1,5 +1,5 @@
 # Torm, The Devoted
-| Area of Conern | Responsibility |
+| Area of Concern | Responsibility |
 | --- | --- |
 | **Alignment** | LG |
 | **Domains** | Justice, Honor, Protection |

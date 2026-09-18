@@ -1,5 +1,5 @@
 # Janus, The Judge
-| Area of Conern | Responsibility |
+| Area of Concern | Responsibility |
 | --- | --- |
 | **Alignment:** | LN |
 | **Domains:** | Grave, Fate, Death  |

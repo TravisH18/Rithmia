@@ -15,13 +15,13 @@ This is a mythical age of nearly three thousand years with these set dates so go
 
 Dragons came out on top of the war so most of the early empires are led by dragon's. These pockets of grand civilization have unique cultures depending on the dragons who rule them. Some metallic dragons create the first orders of knights/paladins cultivating cultures based on honor, and truths (a place like this is where we find a young [Torm](../Religion/Lesser%20Deities/torm-the-devoted.md) who befriends a golden dragon as a young boy). Other's become the first tyrants creating harsh environments where only those puny mortals they favor may survive (think the obsidian dragon who wipes out the red dragons in western [Glaushun](../Rithmia/Continents/Glaushun/overview.md) and enslaves any fire resistant race specifically the fire giants who held the land and dominated some dragons themselves previously. Finally certain dragons bolster a nation of intelligence and forward thinking (like our silver dragon who founds the Master Library in [Glaushun](../Rithmia/Continents/Glaushun/overview.md) after his best friend / lover the mist dragon passes). 
 
-Giants civilization is [broken](../Religion/Lesser%20Deities/sangwena-the-broken.md) and there is no unity amongst the different giant races like there was during the war. The infighting over who is the dominant race becomes a cornerstone of their culture. Some still hold that they need to regroup and tear down these dragon overlords but can never quite bolster enough support amongst all the races. 
+Giants civilization is broken and there is no unity amongst the different giant races like there was during the war. The infighting over who is the dominant race becomes a cornerstone of their culture. Some still hold that they need to regroup and tear down these dragon overlords but can never quite bolster enough support amongst all the races. 
 
 Genie's almost all retreat into the EEP through newly created elemental vortices that stay behind permanently in [the material plane](../Cosmology/material-plane.md). Elemental power seeps into the land around these portals and Eun'sur, monks, and other scholars gather around to harness their power. Children born near these vortices have a chance of being born with a deep genetic tie to the elements and the first Genasi start being born in Rithmia. 
 
 Rithmia is full a high fantasy setting, go nuts but realize the 8 Prime gods are real and are playing nearly 15000 year game of chess against an eldritch outer god. 
 
-Use the Worldwide [Factions](../Rithmia/Continents/Glaushun/factions.md) wherever necessary throughout this age. 
+Use the [Worldwide Factions](../Rithmia/Worldwide%20Factions/overview.md) wherever necessary throughout this age. 
 
 Throughout this age the [Pillars of Restraint](../Rithmia/pillars-of-restraint.md) will fall one by one. Starting with the Pillar of the coast of [Azula](../Rithmia/Continents/Azula/overview.md) allowing the Kaiju Primagaru to be released near the continent where it sought to destroy the World Tree 
 

@@ -1,5 +1,5 @@
 # Yith'Zizctal, The Consumer
-| Area of Conern | Responsibility |
+| Area of Concern | Responsibility |
 | --- | --- |
 | **Alignment** | CE |
 | **Domains** | Void, Darkness |

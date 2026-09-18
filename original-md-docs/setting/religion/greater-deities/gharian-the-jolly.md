@@ -1,5 +1,5 @@
 # Gharian, The Jolly
-| Area of Conern | Responsibility |
+| Area of Concern | Responsibility |
 | --- | --- |
 | **Alignment** |  (CG) |
 | **Domains** |   Light, Peace, Sun, Happiness, Humor |
