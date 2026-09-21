@@ -1,12 +1,12 @@
 # The Scourge 
-The Scourge are alien creatures from the [far realm](../Cosmology/far-realm.md). They were originally spawned by [Yith'Zizctal, The Consumer](../Religion/Outer%20Deities/yith%27zizctal-the-consumer.md) as a biproduct of its fury and are essentially the blood of [the consumer](../Religion/Outer%20Deities/yith%27zizctal-the-consumer.md) as they were flung from the great old one as the prime deities dealt damage to the creature who attempted to consume the Rithmiasphere.
+The Scourge are alien creatures from the [far realm](../../../Cosmology/far-realm.md). They were originally spawned by [Yith'Zizctal, The Consumer](../../../Religion/Outer%20Deities/yith%27zizctal-the-consumer.md) as a biproduct of its fury and are essentially the blood of [the consumer](../../../Religion/Outer%20Deities/yith%27zizctal-the-consumer.md) as they were flung from the great old one as the prime deities dealt damage to the creature who attempted to consume the Rithmiasphere.
 
-Now they act independently of [The Consumer](../Religion/Outer%20Deities/yith%27zizctal-the-consumer.md). Their entire hive mind is focused on releasing their progenitor from its prison. 
+Now they act independently of [The Consumer](../../../Religion/Outer%20Deities/yith%27zizctal-the-consumer.md). Their entire hive mind is focused on releasing their progenitor from its prison. 
 
 ## Scourge Invasion
 The scourge have a 4 step plan to consume all life on a planet turn its surface into star dust and shatter it like glass and spread themselves even further into the galaxy. 
 
-The scourge spread through stardust but they ingest the [far realms](../Cosmology/far-realm.md) void matter so it is a possibility they emerge from a portal as well 
+The scourge spread through stardust but they ingest the [far realms](../../../Cosmology/far-realm.md) void matter so it is a possibility they emerge from a portal as well 
 
 ### Stage one: the feral stage 
 
@@ -24,12 +24,12 @@ Scourge dig into the ground and kill all subterranean life and draw life from pl
 
 ### Stage four: the shattering stage 
 
-The burrowed scourge combined into one massive sheet of glass made entirely of stardust. They vibrate all their cells to superheat the planet causing an explosion so great the core of the planet is exposed allowing [Yith'zizctal](../Religion/Outer%20Deities/yith%27zizctal-the-consumer.md) to break free of [Gaia](../Religion/Greater%20Deities/gaia-the-allmother.md)'s Heart.
+The burrowed scourge combined into one massive sheet of glass made entirely of stardust. They vibrate all their cells to superheat the planet causing an explosion so great the core of the planet is exposed allowing [Yith'zizctal](../../../Religion/Outer%20Deities/yith%27zizctal-the-consumer.md) to break free of [Gaia](../../../Religion/Greater%20Deities/gaia-the-allmother.md)'s Heart.
 
 ## Types of Scourge Creatures
 Mi-go (TOB) 
 
-[Yith'zizctal](../Religion/Outer%20Deities/yith%27zizctal-the-consumer.md) could be based on Degmadu or Hriggala (TOB2) 
+[Yith'zizctal](../../../Religion/Outer%20Deities/yith%27zizctal-the-consumer.md) could be based on Degmadu or Hriggala (TOB2) 
 
 Creatures associated with the cults they form
 

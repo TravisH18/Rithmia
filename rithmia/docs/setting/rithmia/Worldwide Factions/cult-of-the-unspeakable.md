@@ -95,7 +95,7 @@ Faction Adventure Hooks Table
 5. Mad Molly, director of the Multiversal Muster Subsidiary Company, has received an invitation from Duke Inferi of the lower planes to perform in his court. This show calls for performers who are no strangers to violence, as the devilish audience members frequently participate in the show! 
 6. The Theatrum advertises a “millennia defining” event - the performance of a powerful magical ritual in the form of a play. Rumors abound as to what will result from completing the play, and its ritual; Will it grant apotheosis to one of its actors? Open a sealed gateway? Summon a powerful being? Grant a wish? If true, the completion of this play before an audience could change the face of the world, and the party must decide if, and how, they will get involved. 
 
-From <https://www.thedmlair.com/2023/03/20/free-rpg-faction-the-theatrum-aeternum/>  
+From [DM Lair Free RPG Faction The Theatrum Aeternum](https://www.thedmlair.com/2023/03/20/free-rpg-faction-the-theatrum-aeternum/) 
 
 ## Importants Items 
 Black crystal tablet http://longo.com.br/5e/items.html#black%20crystal%20tablet_wdmm  

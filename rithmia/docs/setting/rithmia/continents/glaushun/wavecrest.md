@@ -3,17 +3,9 @@
 ## Government:  
 House System: In this unique system, power is divided among powerful noble houses, with each house representing a distinct lineage or bloodline. The aristocratic houses possess hereditary titles and privileges and wield significant influence over the nation's affairs. The houses may have their own internal hierarchies, traditions, and rivalries, with their heads forming a council or assembly that makes collective decisions for the country. 
 
-Nation of Wavecrest: 
+## Houses 
 
-Government:  
-
-House System: In this unique system, power is divided among powerful noble houses, with each house representing a distinct lineage or bloodline. The aristocratic houses possess hereditary titles and privileges and wield significant influence over the nation's affairs. The houses may have their own internal hierarchies, traditions, and rivalries, with their heads forming a council or assembly that makes collective decisions for the country. 
-
- 
-
-Houses 
-
-House Reefglow: 
+### House Reefglow: 
 
 Purpose: House Reefglow is known for its mastery of diplomacy and maritime trade. They excel in establishing and maintaining profitable alliances with other underwater kingdoms and surface-dwelling nations. They control vast trading networks and prioritize economic prosperity. 
 
@@ -23,7 +15,7 @@ Rivalries: They have an ongoing rivalry with House Waverider, as both houses vie
 
 Standing: House Reefglow is highly regarded among the sea elf nation for its economic prowess and diplomatic skills. They hold a prominent position within the government, often contributing financial resources to the nation's endeavors. 
 
-House Waverider: 
+### House Waverider: 
 
 Purpose: House Waverider boasts a formidable naval force and exceptional maritime warfare capabilities. They focus on protecting the sea elf nation's territories, defending against external threats, and expanding their influence through naval conquest. 
 
@@ -33,7 +25,7 @@ Rivalries: House Waverider harbors a longstanding rivalry with House Reefglow, v
 
 Standing: House Waverider holds considerable influence within the government due to its military might. The sea elf people greatly respect them for their dedication to safeguarding their homeland. 
 
-House Moonshade: 
+### House Moonshade: 
 
 Purpose: House Moonshade specializes in arcane arts, ancient lore, and mystic rituals. They are the keepers of ancient magical knowledge and act as advisors to the ruling monarch. They harness their magical abilities to ensure the prosperity and protection of the sea elf kingdom. 
 
@@ -43,7 +35,7 @@ Rivalries: They have a tense relationship with House Deepgaze, as both houses co
 
 Standing: House Moonshade enjoys a respected position within the government due to their profound magical expertise. They are revered among the sea elf populace as guardians of wisdom and arcane tradition. 
 
-House Deepgaze: 
+### House Deepgaze: 
 
 Purpose: House Deepgaze is renowned for their expertise in exploration, underwater reconnaissance, and knowledge of hidden underwater realms. They undertake daring expeditions, charting new territories, and delving into the depths to uncover ancient relics and lost civilizations. 
 
@@ -53,7 +45,7 @@ Rivalries: They have a rivalry with House Moonshade, as both houses vie for domi
 
 Standing: House Deepgaze is highly respected for their intrepid spirit and vast knowledge of uncharted territories. The sea elf people look to them for guidance and rely on their discoveries to expand the nation's influence. 
 
-House Silverfin: 
+### House Silverfin: 
 
 Purpose: House Silverfin is dedicated to the preservation and protection of the sea elf nation's natural resources, including marine life, coral reefs, and underwater ecosystems. They are fierce advocates for environmental conservation and sustainable practices. 
 
@@ -63,7 +55,7 @@ Rivalries: They often clash with House Blackscale, whose industrial practices an
 
 Standing: House Silverfin is respected among the sea elf population for their commitment to the preservation of their homeland's natural beauty. They have an influential voice in the government, advocating for policies that prioritize ecological well-being. 
 
-House Blackscale: 
+### House Blackscale: 
 
 Purpose: House Blackscale is known for their focus on industry, technology, and expansion. They prioritize economic growth, resource extraction, and territorial expansion to strengthen the sea elf nation's power and influence. 
 
@@ -75,7 +67,7 @@ Standing: House Blackscale holds a significant position within the government du
 
 House Blackscale's industrial practices and expansionist tendencies can bring about economic benefits and technological advancements for the sea elf nation. However, their pursuit of progress often comes at the cost of the environment and can create conflicts with other houses that prioritize preservation and sustainability. Their standing within the government reflects their economic power and the support they garner from those who seek wealth and progress. 
 
-High Regent Sylvaris Windrider 
+### High Regent Sylvaris Windrider 
 
 Description: High Regent Sylvaris Windrider is an imposing figure, standing tall with an air of regal authority. With flowing silver hair that seems to shimmer like moonlight, piercing azure eyes, and a graceful demeanor, Sylvaris embodies the elegance and power of the sea elf nobility. Their skin carries a subtle iridescent sheen, reflecting the colors of the ocean depths. 
 
@@ -87,7 +79,7 @@ Role: As the High Regent, Sylvaris serves as the central authority and the voice
 
 Backstory: Sylvaris comes from a long lineage of sea elf nobility, tracing their ancestry back to the founding of the sea elf nation. They were chosen as the High Regent due to their exceptional diplomatic skills, strategic acumen, and their ability to bridge the diverse interests of the noble houses. Sylvaris has a deep respect for the traditions, wisdom, and values of the sea elf people. 
 
-Roleplaying Hooks: 
+### Roleplaying Hooks: 
 
 Diplomatic Enigma: Sylvaris enjoys engaging in intricate diplomatic maneuvers, and they may seek the assistance of the party in delicate negotiations or resolving disputes among the houses. 
 
@@ -99,7 +91,8 @@ Custodian of Secrets: As a figurehead of the sea elf nation, Sylvaris is privy t
 
 High Regent Sylvaris Windrider serves as the embodiment of the unity, wisdom, and authority of the six houses. Their guidance and leadership are instrumental in maintaining the stability and prosperity of the sea elf nation, and their interactions with the party can shape the course of the nation's future. 
 
-Grand Defender, Dormunoz head of judicial system. 
+### Grand Defender, Dormunoz head of judicial system. 
+Dormunoz, Guardian of Time is an ancient bronze dragon who has become the head of justice, and patron of Wavecrest as a whole. 
 
 https://genrebomb.com/underwater-campaign-guide-dnd-5e/ 
 
@@ -172,8 +165,6 @@ Kaldor's troubled past and internal conflict can lead to moments of doubt or hes
 These NPCs can serve as intricate and secretive characters that add depth and complexity to The Shadowtide Consortium. Their motivations, abilities, and connections can create intriguing storylines and opportunities for the player characters to interact with the faction and uncover its secrets. 
 
 ### Leader: Princess Ellastari Waverider, (The Whispering Siren) 
-
- 
 
 Description: Princess Ellastari is a striking sea elf with flowing silver-blue hair that glimmers like moonlight underwater. Her piercing aquamarine eyes radiate both beauty and an air of cunning. Ellastari possesses a regal and commanding presence, always adorned in intricate jewelry and garments that blend seamlessly with the hues of the ocean depths. 
 

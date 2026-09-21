@@ -155,7 +155,7 @@ People integrate tech into their body with prosthetics, implants and other biote
 
 Space Exploration Via Helms is possible. Discovered and utilized by technofeudal companies to create company town in space 
 
-Transition catalyst: A rogue bioweapon accidentally resurrects ancient [Scourge](../Creatures/scourge.md) beings thought erased from existence destabilizing the world. 
+Transition catalyst: A rogue bioweapon accidentally resurrects ancient [Scourge](../Creatures/Outsiders/Far%20Realm/scourge.md) beings thought erased from existence destabilizing the world. 
 
 ### 2400PD - 2900PD 
 Space age / Complete Hybrid punk 
@@ -172,7 +172,7 @@ This metaphysical barricade is [broken](../Religion/Lesser%20Deities/sangwena-th
 
 Ends with a new Cataclysm incited by a group of wizards who conducted a mysterious arcane ritual trapping the world in a permanent statis under a purple moon leading to the "[release of Yith'Zizctal](release-of-yith%27zizctal.md)" 
 
-Perhaps an underlying reason is that if the world was not trapped in stasis the full barage of [the unspeakable one](../Religion/Outer%20Deities/the-unspeakable-one.md)'s [scourge](../Creatures/scourge.md) would have invaded the Rithmiasphere. 
+Perhaps an underlying reason is that if the world was not trapped in stasis the full barage of [the unspeakable one](../Religion/Outer%20Deities/the-unspeakable-one.md)'s [scourge](../Creatures/Outsiders/Far%20Realm/scourge.md) would have invaded the Rithmiasphere. 
 
 ## Key Dates: 
 
@@ -196,7 +196,7 @@ Perhaps an underlying reason is that if the world was not trapped in stasis the 
 
 785PD [Four Degenerates](../../Past%20Campaigns/Four%20Degenerates/Overview.md) campaign begins 
 
-790PD [Four Degenerates](../../Past%20Campaigns/Four%20Degenerates/Overview.md) campaign ends with [the Scourge](../Creatures/scourge.md) Invasion and the defense of the world tree against the Kaiju, Primagaru all traces of [Scourge](../Creatures/scourge.md) on Rithmia are wished away saving the world.  
+790PD [Four Degenerates](../../Past%20Campaigns/Four%20Degenerates/Overview.md) campaign ends with [the Scourge](../Creatures/Outsiders/Far%20Realm/scourge.md) Invasion and the defense of the world tree against the Kaiju, Primagaru all traces of [Scourge](../Creatures/Outsiders/Far%20Realm/scourge.md) on Rithmia are wished away saving the world.  
 
 Due to the might of this feat alone James is the first mortal in millennia to earn the title Sorcerer Supreme.  
 
