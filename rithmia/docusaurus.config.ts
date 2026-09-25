@@ -87,6 +87,12 @@ const config: Config = {
           position: 'left',
           label: 'Rithmia Guide',
         },
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'ageofMythSidebar',
+        //   position: 'left',
+        //   label: 'Age of Myth',
+        // }
         // {to: '/changelog', label: 'Changelog', position: 'left'},
         
       ],
@@ -114,7 +120,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Rithmia Campaign Setting, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

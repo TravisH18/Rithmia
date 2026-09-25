@@ -22,8 +22,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-              Dive into the setting 
-              <LogIn className={styles.inlineIcons} />
+              Dive into the setting
           </Link>
         </div>
       </div>
