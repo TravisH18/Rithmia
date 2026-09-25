@@ -180,7 +180,7 @@ Perhaps an underlying reason is that if the world was not trapped in stasis the 
 
 48PD The First Phoenix Godking ascends to power, establishes [Verubia](../Rithmia/Continents/Azula/verubia.md). 
 
-199PD [Tiamat's Rise](tiamats-rise.md) from Avernus and corruption of all adult or younger chromatic dragons. 
+199PD [Tiamat's Rise](../../Age%20of%20Myth/tiamats-rise.md) from Avernus and corruption of all adult or younger chromatic dragons. 
 
 202PD Tiamat is defeated. Three mortal knights are raised to godhood: [Torm](../Religion/Lesser%20Deities/torm-the-devoted.md), [Qandia](../Religion/Lesser%20Deities/qandia-the-cunning.md), and [Mawara](../Religion/Lesser%20Deities/mawara-the-watcher.md) 
 

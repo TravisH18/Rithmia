@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 # Worldwide Factions during the Age of Myth
 - Eun'sur, Druidic faction that protect elemental vortecies
 - Amethyst Enclave, protectors from far realm and outer planar threats

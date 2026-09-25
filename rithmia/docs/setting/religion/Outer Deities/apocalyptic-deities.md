@@ -7,7 +7,7 @@ The Doombringer, Lord of Pride: Tall broad and bald grey skinned masculine figur
 
 The Destoyer, Lord of Murder (Wrath): Massive 15ft tall red skinned four armed brute with a different weapon in each hand. Little to no armor and rippling muscles spiked black hair pointing straight up. 
 
-The Outcast, Lord of Anger (Envy): (This one has been seen before) Heavy tattered yellow/green cloak covers and alien physiology of a mass of tentacles branching off a viscous rib cage. Piercing red eyes appear behind a hall of tentacles at the head and they hold a staff hunched over (has a hunchback too) 
+The Outcast, Lord of Anger (Envy): Heavy tattered yellow/green cloak covers and alien physiology of a mass of tentacles branching off a viscous rib cage. Piercing red eyes appear behind a hall of tentacles at the head and they hold a staff hunched over (has a hunchback too). This deity has successfully infiltrated The Nine Hells and has become the Archdevil and ruler of the city of Dis. Formally known as the Tenth Lord of the Nine he has clawed his way up the ranks fast.
 
 The Avarice, Lord of Greed: Thin feminine covered in a simple red cloak but is absolutely covered in accessories like rings and wrist bands. They have tons of piercings on their ears, eyebrows, nose, lips. Two straight ivory horns are stacked with jewelry. Black lips, black eyes, gold fingertips. 
 
