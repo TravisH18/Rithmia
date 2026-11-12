@@ -13,7 +13,8 @@ Inverted cone of nine layers each ruled by an archdevil. It is a plane of sinist
 Each layer of the Nine Hells embodies a particular sin, as described in the sections that follow. Feel free to add other sins, but be careful when you do. Some classical interpretations of sins shouldn't be used in any adventure. Others, such as lust or gluttony, should be handled very carefully. Also the depth of the layer does not mean we are claiming that one sin is worse / less evil than another. They were organized by [Asmodeus, The Devil](../../../Religion/Greater%20Deities/asmodeus-the-devil.md) so the order may be a plot in and of itself to deceive. 
 
 The order of the levels and sins are as follows: 
-1. Avernus, Layer of Anger, The sin of anger fuels wrath, vengeance, and inner turmoil. Ruled by a new Archdevil that [Asmodeus](../../../Religion/Greater%20Deities/asmodeus-the-devil.md) has taken a liking to, known simply as The Outcast (one of [the apocalyptic deities](../../../Religion/Outer%20Deities/apocalyptic-deities.md)) 
+1. Avernus, Layer of Anger, The sin of anger fuels wrath, vengeance, and inner turmoil. Ruled by a new Archdevil that [Asmodeus](../../../Religion/Greater%20Deities/asmodeus-the-devil.md) has taken a liking to, known simply as The Outcast (one of [the apocalyptic deities](../../../Religion/Outer%20Deities/apocalyptic-deities.md)).
+    1. Previously ruled by Tiamat
 2. Dis, Layer of Murder, Killing an innocent or family member is evil business that comes home to roost in Dis. Ruled by Archdevil Dispater. 
 3. Minauros, Layer of Greed, Ruled by Mammon 
 4. Phlegethos, Layer of Jealousy, Ruled by two Archdevils Belial, and Fierna. 

@@ -3,8 +3,8 @@
 | --- | --- |
 | **Alignment** | LG |
 | **Domains** | Justice, Honor, Protection |
-| **Divine Realm** | The Citadel of Valor, Heaven |
-| **Allies** | [Gharian](../Greater%20Deities/gharian-the-jolly.md), Ados |
+| **Divine Realm** | The Citadel of Valor, [Mt. Heaven](../../Cosmology/Outer%20Planes/Planes%20of%20Law/mount-heaven.md) |
+| **Allies** | [Gharian](../Greater%20Deities/gharian-the-jolly.md), [Ados](../Greater%20Deities/ados-the-architect.md) |
 | **Enemies** | Tiamat |
 | **Relationships** | Torm was raised to deity status by Ados after being slain by Tiamat. He maintains a close bond with them as his divine benefactors.   |
 | **Temples** | Majestic fortresses, grand halls of justice, and temples dedicated to valor and righteousness serve as sacred places for Torm. |

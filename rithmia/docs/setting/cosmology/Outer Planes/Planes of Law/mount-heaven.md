@@ -8,13 +8,14 @@ Alignment | Lawful Good
 Inhabitants | Archons, Angels, Celestials, Inevitables, Platinum Dragons 
 Divinities | Ados 
 
-The Lawful good plane of order, compassion, and goodness. Even though it is infinitely large, it appears to visitors as a gigantic single mountain with a flat summit. It is [broken](../../../Religion/Lesser%20Deities/sangwena-the-broken.md) down into seven regions, or levels, six of which are overseen by a steward of immense power. Heaven takes the form of an immense mountain, surrounded by shimmering walls of glass and gold that have been hardened to be as strong as iron. Each one of the seven tiers on the mountain is tasked with a different purpose, but the position of one level over another does not represent any kind of superiority. Each of them is guided by a steward, whose purpose is not to rule, but to help organize the residents of each level and serve as an official authority on all matters pertaining to that tier.  
+The Lawful good plane of order, compassion, and goodness. Even though it is infinitely large, it appears to visitors as a gigantic single mountain with a flat summit. It is broken down into seven regions, or levels, six of which are overseen by a steward of immense power. Heaven takes the form of an immense mountain, surrounded by shimmering walls of glass and gold that have been hardened to be as strong as iron. Each one of the seven tiers on the mountain is tasked with a different purpose, but the position of one level over another does not represent any kind of superiority. Each of them is guided by a steward, whose purpose is not to rule, but to help organize the residents of each level and serve as an official authority on all matters pertaining to that tier.  
 
 Heaven is the home of the Archons, who serve as its administrators, guards, and soldiers. They are born either from the souls of righteous petitioners, or are formed from the very substance of Heaven itself. Heaven is also filled with countless species of angels and other lawful celestials. 
 
 In order from bottom to top of the mountain the seven levels of Heaven are: 
 1. The Threshold, tasked with hospitality and defense Stewarded by The Lord of the Wall and the Lord of the Gate 
-2. Proelera, the mustering ground of Heaven's armies Stewarded by The Voice of the Shining Host 
+2. Proelera, the mustering ground of Heaven's armies Stewarded by The Voice of the Shining Host
+    1. Torm's palace, The Citadel of Valor, resides here but is manned by his best friend an ancient gold dragon. Torm is off at the edge of the crystal sphere vigilant in his defense against extraspherical threats.
 3. Clarion, dedicated to duty and self-purification Stewarded by The High Preceptor 
 4. Requius, the final resting place of virtuous souls who did not follow a particular deity in life Stewarded by The Shepherd of the Wanderers 
 5. Illumis, where residents gather to discuss philosophy and the nature of goodness Stewarded by The Chief Moderator 
